@@ -25,7 +25,7 @@ pagetitle: "Teaching"
 <p>&nbsp;</p> 
 
 
-<img src="images/teaching.jpg" style="max-width:100%;min-width:60px;float:center;" />
+<img src="images/teaching.jpg" style="width:75%;max-width:100%;min-width:60px;float:center;" />
 
 <p>&nbsp;</p>
 
