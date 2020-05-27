@@ -1,8 +1,10 @@
 ---
-title: "Teaching"
+title: " "
+pagetitle: "Teaching"
 ---
 
 <p>&nbsp;</p>
+
 ### Mendoza College of Business, University of Notre Dame
 
 - Marketing Analytics (Undergraduate) 
@@ -22,7 +24,7 @@ title: "Teaching"
   - Teaching Evaluation (Section 1: 4.89/5; Section 2: 4.80/5)
 <p>&nbsp;</p> 
 
-### Word Cloud of Student Comments 
+
 <img src="images/teaching.jpg" style="max-width:100%;min-width:60px;float:center;" />
 
 <p>&nbsp;</p>
