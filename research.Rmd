@@ -21,4 +21,6 @@ pagetitle: "Research"
 
 ### Working Papers
 
-- Chen, Yixing, Vikas Mittal, and Shrihari Sridhar, “Investigating the Academic Performance and Disciplinary Consequences of School District Internet Access Spending,” working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3162837)
+- Chen, Yixing, Vikas Mittal, and Shrihari Sridhar (2019), “Investigating the Academic Performance and Disciplinary Consequences of School District Internet Access Spending,” working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3162837)
+<p>&nbsp;</p>
+- Singal, Amit G., Yixing Chen, Shrihari Sridhar, Vikas Mittal, Hannah Fullington, Muzeeb Shaik, Akbar K. Waljee and  Jasmin Tiro (2020), “Novel Application of Predictive Modeling: Identifying Patients for a Tailored Approach to Promoting HCC Surveillance in Patients with Cirrhosis,” working paper.
