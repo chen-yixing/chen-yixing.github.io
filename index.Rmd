@@ -34,7 +34,7 @@ At Notre Dame, I will be [teaching](teaching.html) Marketing Analytics at the un
 
 <div class="column-left">
 **Education**  
-Ph D, Texas A&M University, 2020  
+Ph.D., Texas A&M University, 2020  
 MBA, University of New Mexico, 2015  
 BA, Southwestern University of Finance and Economics, 2013  
 </div>
