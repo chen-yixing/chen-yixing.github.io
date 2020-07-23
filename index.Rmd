@@ -40,7 +40,7 @@ BA, Southwestern University of Finance and Economics, 2013
 </div>
 
 <div class="column-right">
-**Physical Address**  
+**Office Address**  
 396 Mendoza College of Business 
 University of Notre Dame   
 Notre Dame, IN 46556  
