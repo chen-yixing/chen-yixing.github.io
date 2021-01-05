@@ -1,24 +1,24 @@
 {
-    "id": "B9F2D141",
+    "id": "7A4CAC2D",
     "path": "D:/Google Drive/Personal/Github Website/chen-yixing.github.io/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1606172584114.0,
+    "created": 1609810342571.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
-        "cursorPosition": "11,123",
+        "cursorPosition": "13,39",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1606174629,
+    "lastKnownWriteTime": 1609812119,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1606174629877,
+    "last_content_update": 1609812119493,
     "read_only": false,
     "read_only_alternatives": []
 }

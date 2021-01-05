@@ -1,24 +1,24 @@
 {
-    "id": "FDB0854A",
+    "id": "4C9312D4",
     "path": "D:/Google Drive/Personal/Github Website/chen-yixing.github.io/research.Rmd",
     "project_path": "research.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1040606399",
     "contents": "",
     "dirty": false,
-    "created": 1606173187192.0,
+    "created": 1609811762693.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
-        "cursorPosition": "18,289",
-        "scrollLine": "15"
+        "cursorPosition": "33,57",
+        "scrollLine": "26"
     },
     "folds": "",
-    "lastKnownWriteTime": 1606174307,
+    "lastKnownWriteTime": 1609811977,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1606174307278,
+    "last_content_update": 1609811977982,
     "read_only": false,
     "read_only_alternatives": []
 }
