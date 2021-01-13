@@ -6,7 +6,7 @@ pagetitle: "Research"
 
 ### Publications
 
-1.  Chen, Yixing, Vikas Mittal, and Shrihari Sridhar (2021), “Investigating the Academic Performance and Disciplinary Consequences of School District Internet Access Spending,” forthcoming in ***Journal of Marketing Research***. [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022243720964130); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022243720964130/suppl_file/Web_Appendix_FINAL_(Chen_Mittal_Sridhar).pdf)
+1.  Chen, Yixing, Vikas Mittal, and Shrihari Sridhar (2021), “Investigating the Academic Performance and Disciplinary Consequences of School District Internet Access Spending,” ***Journal of Marketing Research***, 58 (1), 141-162. [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022243720964130); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022243720964130/suppl_file/Web_Appendix_FINAL_(Chen_Mittal_Sridhar).pdf)
     - Previously circulated under the title "Broadband Internet Access: A Double-Edged Sword for K-12 Education"
 
 
@@ -28,7 +28,8 @@ pagetitle: "Research"
 
 ### Working Papers
 
-
 1. Singal, Amit G., Yixing Chen, Shrihari Sridhar, Vikas Mittal, Hannah Fullington, Muzeeb Shaik, Akbar K. Waljee and  Jasmin Tiro (2021), “Novel Application of Predictive Modeling: Identifying Patients for a Tailored Approach to Promoting HCC Surveillance in Patients with Cirrhosis,” revise and resubmit at ***Clinical Gastroenterology and Hepatology***.
+
+
 
 2. Chen, Yixing, Shrihari Sridhar, and Vikas Mittal (2020), “Analyzing Randomized Field Experiments: Comparison of ANOVA, Random Coefficients, and Causal Forests,” working paper.
