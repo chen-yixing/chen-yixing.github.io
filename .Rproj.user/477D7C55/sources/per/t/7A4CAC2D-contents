@@ -11,7 +11,7 @@ pagetitle: "Yixing Chen"
 ####   陈一行
 </center>
 
-Welcome! I am an Assistant Professor of [Marketing](https://mendoza.nd.edu/research-faculty/academic-departments/marketing/) at the [Mendoza College of Business](https://mendoza.nd.edu/) and a faculty affiliate of the [Eck Institute for Global Health (EIGH)](https://globalhealth.nd.edu/), University of Notre Dame. I got my Ph.D. in Business Administration (Marketing) from the Texas A&M University’s Mays Business School, under the supervision of [Hari Sridhar](https://mays.tamu.edu/directory/shriharisridhar/) (Texas A&M University) and [Vikas Mittal](https://business.rice.edu/person/vikas-mittal) (Rice University). 
+Welcome! I am an Assistant Professor of [Marketing](https://mendoza.nd.edu/research-faculty/academic-departments/marketing/) at the [Mendoza College of Business](https://mendoza.nd.edu/) and a faculty affiliate of the [Eck Institute for Global Health (EIGH)](https://globalhealth.nd.edu/) and the [Mike and Josie Harper Cancer Research Institute (HCRI)](https://harpercancer.nd.edu/) , University of Notre Dame. I got my Ph.D. in Business Administration (Marketing) from the Texas A&M University’s Mays Business School, under the supervision of [Hari Sridhar](https://mays.tamu.edu/directory/shriharisridhar/) (Texas A&M University) and [Vikas Mittal](https://business.rice.edu/person/vikas-mittal) (Rice University). 
 
 I study the social impact of marketing interventions, with a goal of measuring and improving the effectiveness of marketing spending for social sector organizations such as health care institutions and school districts. I am also interested in quantifying the return on investment in the context of digital markets such as social media. To study these questions, I use the tools developed in applied econometrics, causal inference, and machine learning. My [research](research.html) has been published in the ***Journal of Marketing*** and ***Journal of Marketing Research***, featured in ***Harvard Business Review***, and selected as the recipient of the 2021 John A. Howard/AMA Doctoral Dissertation Award and a finalist for the 2018 MSI/H. Paul Root Award. 
 
@@ -22,13 +22,13 @@ At Notre Dame, I [teach](teaching.html) Marketing Analytics at the undergraduate
 <style type="text/css">
 .column-left{
   float: left;
-  width: 70%;
+  width: 50%;
   text-align: left;
 }
 
 .column-right{
   float: right;
-  width: 30%;
+  width: 50%;
   text-align: right;
 }
 </style>
@@ -42,11 +42,10 @@ BA, Southwestern University of Finance and Economics, 2013
 </div>
 
 <div class="column-right">
-**Office Address**  
-396 Mendoza College of Business 
-University of Notre Dame   
-Notre Dame, IN 46556  
-Phone: 574-631-6504
+**Affiliations**  
+Mendoza College of Business\
+Eck Institute for Global Health\
+Mike and Josie Harper Cancer Research Institute
 
 </div>
 
