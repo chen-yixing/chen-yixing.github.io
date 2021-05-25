@@ -7,34 +7,35 @@ pagetitle: "Research"
 ### Publications
 
 
-1. Singal, Amit G., Yixing Chen, Shrihari Sridhar, Vikas Mittal, Hannah Fullington, Muzeeb Shaik, Akbar K. Waljee and  Jasmin Tiro (2021), “Novel Application of Predictive Modeling: Identifying Patients for a Tailored Approach to Promoting HCC Surveillance in Patients with Cirrhosis,” ***Clinical Gastroenterology and Hepatology***  - Accepted (awaiting publication). [Link](https://doi.org/10.1016/j.cgh.2021.02.038)
-
-&nbsp;
-
-2.  Chen, Yixing, Vikas Mittal, and Shrihari Sridhar (2021), “Investigating the Academic Performance and Disciplinary Consequences of School District Internet Access Spending,” ***Journal of Marketing Research***, 58 (1), 141-162. [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022243720964130); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022243720964130/suppl_file/Web_Appendix_FINAL_(Chen_Mittal_Sridhar).pdf)
+1.  Chen, Yixing, Vikas Mittal, and Shrihari Sridhar (2021), “Investigating the Academic Performance and Disciplinary Consequences of School District Internet Access Spending,” ***Journal of Marketing Research***, 58 (1), 141-162. [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022243720964130); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022243720964130/suppl_file/Web_Appendix_FINAL_(Chen_Mittal_Sridhar).pdf)
     - Previously circulated under the title "Broadband Internet Access: A Double-Edged Sword for K-12 Education"
     - [Top 1%](https://sage.altmetric.com/details/94875362#score) of the Attention Scores of all research outputs tracked by Altmetric
     - Media Coverage: [Notre Dame News](https://news.nd.edu/news/internet-access-spending-in-public-school-districts-increases-test-scores-but-also-disciplinary-problems-study-shows/), [K-12 Dive](https://www.k12dive.com/news/study-increased-internet-access-improves-achievement-district-finances/595246/), [Science Daily](https://www.sciencedaily.com/releases/2021/02/210216133432.htm), [Newswise](https://www.newswise.com/articles/internet-access-spending-in-public-school-districts-increases-test-scores-but-also-disciplinary-problems-study-shows), [sciencenewsnet.in](https://sciencenewsnet.in/internet-access-spending-in-public-school-districts-increases-test-scores-but-also-disciplinary-problems-study-shows/), [EurekAlert!](https://www.eurekalert.org/pub_releases/2021-02/uond-ias021621.php), [Phys.org](https://phys.org/news/2021-02-internet-access-schools-scores-disciplinary.html), [research@TexasA&M](https://research.tamu.edu/2021/04/27/schools-are-reaping-big-dividends-from-investments-in-online-access/)
 
 &nbsp;
 
-3.  Chen, Yixing, Ju-Yeon Lee, Shrihari Sridhar, Vikas Mittal, Katharine McCallister, and Amit G. Singal (2020), “Improving Cancer Outreach Effectiveness through Targeting and Economic Assessments: Insights from a Randomized Field Experiment,” ***Journal of Marketing***, 84 (3), 1–27.(Lead Article) [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022242920913025); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022242920913025)
+2.  Chen, Yixing, Ju-Yeon Lee, Shrihari Sridhar, Vikas Mittal, Katharine McCallister, and Amit G. Singal (2020), “Improving Cancer Outreach Effectiveness through Targeting and Economic Assessments: Insights from a Randomized Field Experiment,” ***Journal of Marketing***, 84 (3), 1–27.(Lead Article) [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022242920913025); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022242920913025)
     - **Finalist, 2020 AMA/Marketing Science Institute/H. Paul Root Award**
     - Invited for [JM Webinar Series: Insights for Managers](https://www.ama.org/jm-webinar-personalized-cancer-outreach-saves-both-lives-and-money/)
     - [Notre Dame 3-Minute Lightning Talk
 ](https://drive.google.com/file/d/11Apgq5RBHi4ZhKd8fP6kLEse4CShBmON/view)
     - [Top 2%](https://sage.altmetric.com/details/78200414#score) of the Attention Scores of all research outputs tracked by Altmetric
     - Media Coverage: [JM Scholarly Insights](https://www.ama.org/2020/03/18/applying-machine-learning-to-the-challenge-of-cancer-patient-outreach/), [Rice University News & Media](http://news.rice.edu/2020/03/31/machine-learning-can-help-increase-liver-cancer-screening-rates-says-rice-u-expert/), [Medical Xpress](https://medicalxpress.com/news/2020-03-personalization-machine-cancer-outreach-roi.html),  [EurekAlert!](https://www.eurekalert.org/pub_releases/2020-03/ama-hpa032420.php), [The Horizons Tracker
-](http://adigaskell.org/2020/06/03/how-machine-learning-can-improve-patient-communication/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+adigaskell+%28Adi+Gaskell+says...%29), [Mirage News](https://www.miragenews.com/personalized-cancer-outreach-more-effective-study-finds/), [sciencenewsnet.in](https://sciencenewsnet.in/personalized-cancer-outreach-more-effective/), [Iowa State News](https://www.news.iastate.edu/news/2020/10/15/canceroutreach)
+](http://adigaskell.org/2020/06/03/how-machine-learning-can-improve-patient-communication/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+adigaskell+%28Adi+Gaskell+says...%29), [Mirage News](https://www.miragenews.com/personalized-cancer-outreach-more-effective-study-finds/), [sciencenewsnet.in](https://sciencenewsnet.in/personalized-cancer-outreach-more-effective/), [Iowa State News](https://www.news.iastate.edu/news/2020/10/15/canceroutreach), [Rice Business Wisdom](https://business.rice.edu/wisdom/peer-reviewed-research-How-Personalized-Marketing-Can-Prevent-Cancer)
 
 &nbsp;
     
-4.  Kanuri, Vamsi K., Yixing Chen, and Shrihari Sridhar (2018), “Scheduling Content on Social Media: Theory, Evidence, and Application,” ***Journal of Marketing***, 82 (6), 89–108. [Link](https://journals.sagepub.com/doi/10.1177/0022242918805411); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022242918805411) 
+3.  Kanuri, Vamsi K., Yixing Chen, and Shrihari Sridhar (2018), “Scheduling Content on Social Media: Theory, Evidence, and Application,” ***Journal of Marketing***, 82 (6), 89–108. [Link](https://journals.sagepub.com/doi/10.1177/0022242918805411); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022242918805411) 
     - **Finalist, 2018 AMA/Marketing Science Institute/H. Paul Root Award**
     - Selected for publication in *Harvard Business Review* (digital article), [“A Study Shows the Best Times of Day to Post to Social Media”](https://hbr.org/2018/09/a-study-shows-the-best-times-of-day-to-post-to-social-media)
     - Media Coverage: [JM Scholarly Insights](https://www.ama.org/resources/Pages/social-media-strategists-here-is-the-science-behind-scheduling-content.aspx), @[Mays Headlines](https://mays.tamu.edu/wp-content/uploads/2019/01/@Mays-fall-2018-The-Business-of-Healthcare.pdf), [AACSB](https://bized.aacsb.edu/articles/2019/january/the-science-of-social-media), [Notre Dame News](https://news.nd.edu/news/capitalizing-on-sleep-wake-cycle-can-drastically-increase-digital-ad-profits-from-social-media-study-shows/), [Mendoza Business Magazine](http://bizmagazine.nd.edu/issues/2019/spring-2019/research-why-the-early-bird-gets-the-clicks/),  [ScienceDaily](https://www.sciencedaily.com/releases/2018/09/180918131711.htm), [Keller Center Report](https://www.baylor.edu/business/kellercenter/news.php?action=story&story=215313), [Phys.org](https://phys.org/news/2018-09-capitalizing-sleep-wake-drastically-digital-ad.html), [Communications of the Association for Computing Machinery](https://cacm.acm.org/news/231317-capitalizing-on-sleep-wake-cycle-can-drastically-increase-digital-ad-profits-from-social-media-study-shows/fulltext)                                 
 &nbsp;
 
-### Working Papers
+### Other Papers
 
-1. Chen, Yixing, Shrihari Sridhar, and Vikas Mittal (2020), “Analyzing Randomized Field Experiments: Comparison of ANOVA, Random Coefficients, and Causal Forests,” working paper.
+1. Chen, Yixing, Shrihari Sridhar, and Vikas Mittal (2021), “Treatment Effect Heterogeneity in Randomized Field Experiments: A Methodological Comparison and Public Policy Implications,” ***Journal of Public Policy & Marketing***  - Accepted (awaiting publication).
+&nbsp;
+
+2. Singal, Amit G., Yixing Chen, Shrihari Sridhar, Vikas Mittal, Hannah Fullington, Muzeeb Shaik, Akbar K. Waljee and  Jasmin Tiro (2021), “Novel Application of Predictive Modeling: Identifying Patients for a Tailored Approach to Promoting HCC Surveillance in Patients with Cirrhosis,” ***Clinical Gastroenterology and Hepatology***  - Accepted (awaiting publication). [Link](https://doi.org/10.1016/j.cgh.2021.02.038)
+
+
