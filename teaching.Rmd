@@ -7,27 +7,14 @@ pagetitle: "Teaching"
 
 ### Mendoza College of Business, University of Notre Dame
 
-- Marketing Analytics (MBA) 
+- Marketing Analytics (MBA, MSBA) 
   - Spring 2021 (Rating: 5/5)
 <p>&nbsp;</p>
 - Marketing Analytics (Undergraduate)
   - Spring 2021 (Session 1 - Rating: 5/5; Session 2 - Rating: 5/5)
 <p>&nbsp;</p>
 
-### Mays Business School, Texas A&M University
-
-
-- Marketing Analytics (Undergraduate)
-    - Fall 2018 (Session 1 - Rating: 4.89/5; Session 2 - Rating: 4.80/5)
-    - Dean’s Award for Outstanding Teaching
-<p>&nbsp;</p> 
-
-
-<img src="images/teaching.jpg" style="width:75%;max-width:100%;min-width:60px;float:center;" />
-
-<p>&nbsp;</p>
-
-### Selected Student Comments
+#### Selected Student Comments
 
 - “Fantastic class - one of the best professors in the MBA program I believe. Yixing took a topic that is complex and technical and really made it exciting and accessible to students. It was also helpful to have a guest speaker come in and share how this is used in real life. Overall, very pleased with the experience.”
 
@@ -44,6 +31,22 @@ pagetitle: "Teaching"
 - “The step by step guide from data to business insights is the most useful knowledge I have learnt in Mendoza. Yixing's lecture is very engaging and rich.” 
 
 - “Very clear in exposition of the material. Effective in building off of other student attempts at describing the material.”
+
+- "It was truly a gift to be taught by someone who has such an undeniable depth of mastery in his course material. Yixing has made every effort not only to give us the information we need, but to explain its origin and application, and to help us practice communicating it effectively. He has clearly taken real-world challenges related to his subject area into consideration when designing the course. One such challenge is that of communicating statistical findings to a non-mathematically-oriented audience."
+
+- "Yixing is hands down the best marketing/business professor I have ever had. He made me truly understand statistics for the first time and helped me see how marketing can be used to do good in the world."
+
+<p>&nbsp;</p>
+
+### Mays Business School, Texas A&M University
+
+
+- Marketing Analytics (Undergraduate)
+    - Fall 2018 (Session 1 - Rating: 4.89/5; Session 2 - Rating: 4.80/5)
+    - Dean’s Award for Outstanding Teaching
+<p>&nbsp;</p> 
+
+#### Selected Student Comments
 
 - “This course was the perfect balance of challenging and stimulating. I learned something new every class, and thoroughly enjoyed it.”
 
