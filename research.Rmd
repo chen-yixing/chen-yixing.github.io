@@ -34,7 +34,7 @@ pagetitle: "Research"
 
 ### Working Papers
 
-1. Chen, Yixing, Kyuhong Han, Taehoon Im, Sonam Singh, Shrihari Sridhar, and Vikas Mittal (2021), “Return on Safety Training Programs,” working paper.
+1. Chen, Yixing, Kyuhong Han, Taehoon Im, Sonam Singh, Shrihari Sridhar, and Vikas Mittal (2021), “Return on Safety Training Programs,” working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3890177)
 
 &nbsp;
 

@@ -1,0 +1,419 @@
+setwd("D:\\Google Drive\\TAMU\\Projets\\Hari\\Satisfaction Meta\\Write up July 2021\\Study 1")
+
+library(tidyverse)
+library(meta)
+library(readxl)
+library(dplyr)
+Input <- read_excel("All Correlations- July 20  2021 R Input.xlsx")
+Input <- Input %>% mutate( Location_New = ifelse(Location == 3, 1, Location))
+Input <- Input %>% mutate( CS_Scale_New = ifelse(CS_Scale != 5& CS_Scale != 7&CS_Scale != 10&CS_Scale != 100&CS_Scale != 99, 0, CS_Scale))
+
+### Retention ----
+
+retention_data <-Input %>% filter(DV ==3)
+
+
+retention_correlations <- metacor(cor = Corr, 
+                                  n = N,
+                                  studlab = `Effect ID`,
+                                  data = retention_data,
+                                  comb.fixed = TRUE,
+                                  comb.random = FALSE,
+                                  method.tau = "REML",
+                                  hakn = TRUE,
+                                  title = "Retention")
+
+retention_correlations_g_s <-  update.meta(retention_correlations, byvar = `G/S`, tau.common = FALSE)
+retention_correlations_g_s
+retention_data %>% group_by(`G/S`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+retention_correlations_b2b_b2c<-  update.meta(retention_correlations, byvar = `B2C/B2B`, tau.common = FALSE)
+retention_correlations_b2b_b2c
+retention_data %>% group_by(`B2C/B2B`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+retention_correlations_Location<-  update.meta(retention_correlations, byvar = `Location_New`, tau.common = FALSE)
+retention_correlations_Location
+retention_data %>% group_by(`Location_New`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+# Behaviour vs Intention
+retention_correlations_behavior<-  update.meta(retention_correlations, byvar = `DV_Type`, tau.common = FALSE)
+retention_correlations_behavior
+retention_data %>% group_by(`DV_Type`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+# CS Scale Item
+retention_correlations_scale_item<-  update.meta(retention_correlations, byvar = `CS_Item`, tau.common = FALSE)
+retention_correlations_scale_item
+retention_data %>% group_by(`CS_Item`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+# CS Scale Points
+retention_correlations_scale_point<-  update.meta(retention_correlations, byvar = `CS_Scale_New`, tau.common = FALSE)
+retention_correlations_scale_point
+retention_data %>% group_by(`CS_Scale_New`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+
+
+
+
+
+### WOM ----
+
+wom_data <-Input %>% filter(DV ==1)
+
+
+wom_correlations <- metacor(cor = Corr, 
+                                  n = N,
+                                  studlab = `Effect ID`,
+                                  data = wom_data,
+                                  comb.fixed = TRUE,
+                                  comb.random = FALSE,
+                                  method.tau = "REML",
+                                  hakn = TRUE,
+                                  title = "Word of Mouth")
+
+wom_correlations_g_s <-  update.meta(wom_correlations, byvar = `G/S`, tau.common = FALSE)
+wom_correlations_g_s
+wom_data %>% group_by(`G/S`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+wom_correlations_b2b_b2c<-  update.meta(wom_correlations, byvar = `B2C/B2B`, tau.common = FALSE)
+wom_correlations_b2b_b2c
+wom_data %>% group_by(`B2C/B2B`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+wom_correlations_Location<-  update.meta(wom_correlations, byvar = `Location_New`, tau.common = FALSE)
+wom_correlations_Location
+wom_data %>% group_by(`Location_New`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+# Behaviour vs Intention
+wom_correlations_behavior<-  update.meta(wom_correlations, byvar = `DV_Type`, tau.common = FALSE)
+wom_correlations_behavior
+wom_data %>% group_by(`DV_Type`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+# CS Scale Item
+wom_correlations_scale_item<-  update.meta(wom_correlations, byvar = `CS_Item`, tau.common = FALSE)
+wom_correlations_scale_item
+wom_data %>% group_by(`CS_Item`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+# CS Scale Points
+wom_correlations_scale_point<-  update.meta(wom_correlations, byvar = `CS_Scale_New`, tau.common = FALSE)
+wom_correlations_scale_point
+wom_data %>% group_by(`CS_Scale_New`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+
+###Spending ----
+
+spending_data <-Input %>% filter(DV ==2|DV ==5|DV ==6|DV ==7)
+
+
+spending_correlations <- metacor(cor = Corr, 
+                            n = N,
+                            studlab = `Effect ID`,
+                            data = spending_data,
+                            comb.fixed = TRUE,
+                            comb.random = FALSE,
+                            method.tau = "REML",
+                            hakn = TRUE,
+                            title = "Spending")
+
+spending_correlations_g_s <-  update.meta(spending_correlations, byvar = `G/S`, tau.common = FALSE)
+spending_correlations_g_s
+spending_data %>% group_by(`G/S`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+spending_correlations_b2b_b2c<-  update.meta(spending_correlations, byvar = `B2C/B2B`, tau.common = FALSE)
+spending_correlations_b2b_b2c
+spending_data %>% group_by(`B2C/B2B`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+spending_correlations_Location<-  update.meta(spending_correlations, byvar = `Location_New`, tau.common = FALSE)
+spending_correlations_Location
+spending_data %>% group_by(`Location_New`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+# Behaviour vs Intention
+spending_correlations_behavior<-  update.meta(spending_correlations, byvar = `DV_Type`, tau.common = FALSE)
+spending_correlations_behavior
+spending_data %>% group_by(`DV_Type`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+# CS Scale Item
+spending_correlations_scale_item<-  update.meta(spending_correlations, byvar = `CS_Item`, tau.common = FALSE)
+spending_correlations_scale_item
+spending_data %>% group_by(`CS_Item`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+# CS Scale Points
+spending_correlations_scale_point<-  update.meta(spending_correlations, byvar = `CS_Scale_New`, tau.common = FALSE)
+spending_correlations_scale_point
+spending_data %>% group_by(`CS_Scale_New`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+###Price Outcomes ----
+
+price_data <-Input %>% filter(DV ==8|DV ==9)
+
+
+price_correlations <- metacor(cor = Corr, 
+                                 n = N,
+                                 studlab = `Effect ID`,
+                                 data = price_data,
+                                 comb.fixed = TRUE,
+                                 comb.random = FALSE,
+                                 method.tau = "REML",
+                                 hakn = TRUE,
+                                 title = "Price Outcomes")
+
+price_correlations_g_s <-  update.meta(price_correlations, byvar = `G/S`, tau.common = FALSE)
+price_correlations_g_s
+price_data %>% group_by(`G/S`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+price_correlations_b2b_b2c<-  update.meta(price_correlations, byvar = `B2C/B2B`, tau.common = FALSE)
+price_correlations_b2b_b2c
+price_data %>% group_by(`B2C/B2B`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+price_correlations_Location<-  update.meta(price_correlations, byvar = `Location_New`, tau.common = FALSE)
+price_correlations_Location
+price_data %>% group_by(`Location_New`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+
+# Behaviour vs Intention
+price_correlations_behavior<-  update.meta(price_correlations, byvar = `DV_Type`, tau.common = FALSE)
+price_correlations_behavior
+price_data %>% group_by(`DV_Type`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+# CS Scale Item
+price_correlations_scale_item<-  update.meta(price_correlations, byvar = `CS_Item`, tau.common = FALSE)
+price_correlations_scale_item
+price_data %>% group_by(`CS_Item`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+# CS Scale Points
+price_correlations_scale_point<-  update.meta(price_correlations, byvar = `CS_Scale_New`, tau.common = FALSE)
+price_correlations_scale_point
+price_data %>% group_by(`CS_Scale_New`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+
+###Sales ----
+
+sales_data <-Input %>% filter(DV ==21)
+
+
+sales_correlations <- metacor(cor = Corr, 
+                              n = N,
+                              studlab = `Effect ID`,
+                              data = sales_data,
+                              comb.fixed = TRUE,
+                              comb.random = FALSE,
+                              method.tau = "REML",
+                              hakn = TRUE,
+                              title = "Sales")
+
+sales_correlations_g_s <-  update.meta(sales_correlations, byvar = `G/S`, tau.common = FALSE)
+sales_correlations_g_s
+sales_data %>% group_by(`G/S`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+sales_correlations_b2b_b2c<-  update.meta(sales_correlations, byvar = `B2C/B2B`, tau.common = FALSE)
+sales_correlations_b2b_b2c
+sales_data %>% group_by(`B2C/B2B`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+sales_correlations_Location<-  update.meta(sales_correlations, byvar = `Location_New`, tau.common = FALSE)
+sales_correlations_Location
+sales_data %>% group_by(`Location_New`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+
+# ACSI
+sales_correlations_ACSI<-  update.meta(sales_correlations, byvar = `ACSI`, tau.common = FALSE)
+sales_correlations_ACSI
+sales_data %>% group_by(`ACSI`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+# CS Scale Item
+sales_correlations_scale_item<-  update.meta(sales_correlations, byvar = `CS_Item`, tau.common = FALSE)
+sales_correlations_scale_item
+sales_data %>% group_by(`CS_Item`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+# CS Scale Points
+sales_correlations_scale_point<-  update.meta(sales_correlations, byvar = `CS_Scale_New`, tau.common = FALSE)
+sales_correlations_scale_point
+sales_data %>% group_by(`CS_Scale_New`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+#Cumulative vs. Transactional
+sales_correlations_cumilative<-  update.meta(sales_correlations, byvar = `Cumilative`, tau.common = FALSE)
+sales_correlations_cumilative
+sales_data %>% group_by(`Cumilative`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+#Top-Box vs. Non-Top-Box	
+sales_correlations_topbox<-  update.meta(sales_correlations, byvar = `Top Box`, tau.common = FALSE)
+sales_correlations_topbox
+sales_data %>% group_by(`Top Box`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+#Time Period
+sales_correlations_timeperiod <-  update.meta(sales_correlations, byvar = `Time Period`, tau.common = FALSE)
+sales_correlations_timeperiod
+sales_data %>% group_by(`Time Period`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+
+###Market Share ----
+
+markshare_data <-Input %>% filter(DV ==22)
+
+
+markshare_correlations <- metacor(cor = Corr, 
+                              n = N,
+                              studlab = `Effect ID`,
+                              data = markshare_data,
+                              comb.fixed = TRUE,
+                              comb.random = FALSE,
+                              method.tau = "REML",
+                              hakn = TRUE,
+                              title = "Market Share")
+
+markshare_correlations_g_s <-  update.meta(markshare_correlations, byvar = `G/S`, tau.common = FALSE)
+markshare_correlations_g_s
+markshare_data %>% group_by(`G/S`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+markshare_correlations_b2b_b2c<-  update.meta(markshare_correlations, byvar = `B2C/B2B`, tau.common = FALSE)
+markshare_correlations_b2b_b2c
+markshare_data %>% group_by(`B2C/B2B`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+markshare_correlations_Location<-  update.meta(markshare_correlations, byvar = `Location_New`, tau.common = FALSE)
+markshare_correlations_Location
+markshare_data %>% group_by(`Location_New`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+
+# ACSI
+markshare_correlations_ACSI<-  update.meta(markshare_correlations, byvar = `ACSI`, tau.common = FALSE)
+markshare_correlations_ACSI
+markshare_data %>% group_by(`ACSI`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+# CS Scale Item
+markshare_correlations_scale_item<-  update.meta(markshare_correlations, byvar = `CS_Item`, tau.common = FALSE)
+markshare_correlations_scale_item
+markshare_data %>% group_by(`CS_Item`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+# CS Scale Points
+markshare_correlations_scale_point<-  update.meta(markshare_correlations, byvar = `CS_Scale_New`, tau.common = FALSE)
+markshare_correlations_scale_point
+markshare_data %>% group_by(`CS_Scale_New`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+#Cumulative vs. Transactional
+markshare_correlations_cumilative<-  update.meta(markshare_correlations, byvar = `Cumilative`, tau.common = FALSE)
+markshare_correlations_cumilative
+markshare_data %>% group_by(`Cumilative`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+#Top-Box vs. Non-Top-Box	
+markshare_correlations_topbox<-  update.meta(markshare_correlations, byvar = `Top Box`, tau.common = FALSE)
+markshare_correlations_topbox
+markshare_data %>% group_by(`Top Box`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+#Time Period
+markshare_correlations_timeperiod <-  update.meta(markshare_correlations, byvar = `Time Period`, tau.common = FALSE)
+markshare_correlations_timeperiod
+markshare_data %>% group_by(`Time Period`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+### Profit ----
+
+profit_data <-Input %>% filter(DV ==50)
+
+
+profit_correlations <- metacor(cor = Corr, 
+                                  n = N,
+                                  studlab = `Effect ID`,
+                                  data = profit_data,
+                                  comb.fixed = TRUE,
+                                  comb.random = FALSE,
+                                  method.tau = "REML",
+                                  hakn = TRUE,
+                                  title = "Profit")
+
+profit_correlations_g_s <-  update.meta(profit_correlations, byvar = `G/S`, tau.common = FALSE)
+profit_correlations_g_s
+profit_data %>% group_by(`G/S`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+profit_correlations_b2b_b2c<-  update.meta(profit_correlations, byvar = `B2C/B2B`, tau.common = FALSE)
+profit_correlations_b2b_b2c
+profit_data %>% group_by(`B2C/B2B`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+profit_correlations_Location<-  update.meta(profit_correlations, byvar = `Location_New`, tau.common = FALSE)
+profit_correlations_Location
+profit_data %>% group_by(`Location_New`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+
+# ACSI
+profit_correlations_ACSI<-  update.meta(profit_correlations, byvar = `ACSI`, tau.common = FALSE)
+profit_correlations_ACSI
+profit_data %>% group_by(`ACSI`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+# CS Scale Item
+profit_correlations_scale_item<-  update.meta(profit_correlations, byvar = `CS_Item`, tau.common = FALSE)
+profit_correlations_scale_item
+profit_data %>% group_by(`CS_Item`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+# CS Scale Points
+profit_correlations_scale_point<-  update.meta(profit_correlations, byvar = `CS_Scale_New`, tau.common = FALSE)
+profit_correlations_scale_point
+profit_data %>% group_by(`CS_Scale_New`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+#Cumulative vs. Transactional
+profit_correlations_cumilative<-  update.meta(profit_correlations, byvar = `Cumilative`, tau.common = FALSE)
+profit_correlations_cumilative
+profit_data %>% group_by(`Cumilative`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+#Top-Box vs. Non-Top-Box	
+profit_correlations_topbox<-  update.meta(profit_correlations, byvar = `Top Box`, tau.common = FALSE)
+profit_correlations_topbox
+profit_data %>% group_by(`Top Box`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+#Time Period
+profit_correlations_timeperiod <-  update.meta(profit_correlations, byvar = `Time Period`, tau.common = FALSE)
+profit_correlations_timeperiod
+profit_data %>% group_by(`Time Period`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+
+### ROI ROA ----
+
+roi_data <-Input %>% filter(DV ==23 |DV ==24)
+
+
+roi_correlations <- metacor(cor = Corr, 
+                               n = N,
+                               studlab = `Effect ID`,
+                               data = roi_data,
+                               comb.fixed = TRUE,
+                               comb.random = FALSE,
+                               method.tau = "REML",
+                               hakn = TRUE,
+                               title = "Profit")
+
+roi_correlations_g_s <-  update.meta(roi_correlations, byvar = `G/S`, tau.common = FALSE)
+roi_correlations_g_s
+roi_data %>% group_by(`G/S`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+roi_correlations_b2b_b2c<-  update.meta(roi_correlations, byvar = `B2C/B2B`, tau.common = FALSE)
+roi_correlations_b2b_b2c
+roi_data %>% group_by(`B2C/B2B`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+roi_correlations_Location<-  update.meta(roi_correlations, byvar = `Location_New`, tau.common = FALSE)
+roi_correlations_Location
+roi_data %>% group_by(`Location_New`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+
+# ACSI
+roi_correlations_ACSI<-  update.meta(roi_correlations, byvar = `ACSI`, tau.common = FALSE)
+roi_correlations_ACSI
+roi_data %>% group_by(`ACSI`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+# CS Scale Item
+roi_correlations_scale_item<-  update.meta(roi_correlations, byvar = `CS_Item`, tau.common = FALSE)
+roi_correlations_scale_item
+roi_data %>% group_by(`CS_Item`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+# CS Scale Points
+roi_correlations_scale_point<-  update.meta(roi_correlations, byvar = `CS_Scale_New`, tau.common = FALSE)
+roi_correlations_scale_point
+roi_data %>% group_by(`CS_Scale_New`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+#Cumulative vs. Transactional
+roi_correlations_cumilative<-  update.meta(roi_correlations, byvar = `Cumilative`, tau.common = FALSE)
+roi_correlations_cumilative
+roi_data %>% group_by(`Cumilative`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+#Top-Box vs. Non-Top-Box	
+roi_correlations_topbox<-  update.meta(roi_correlations, byvar = `Top Box`, tau.common = FALSE)
+roi_correlations_topbox
+roi_data %>% group_by(`Top Box`) %>%  summarise_at(vars(N), list(name = sum)) 
+
+#Time Period
+roi_correlations_timeperiod <-  update.meta(roi_correlations, byvar = `Time Period`, tau.common = FALSE)
+roi_correlations_timeperiod
+roi_data %>% group_by(`Time Period`) %>%  summarise_at(vars(N), list(name = sum)) 
