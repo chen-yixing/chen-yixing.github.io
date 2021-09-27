@@ -2,10 +2,7 @@
 title: " "
 pagetitle: "Teaching"
 ---
-<center>
-<img src="images/teaching pic copy.jpg" style="width:100%">
 
-</center>
 <p>&nbsp;</p>
 
 
