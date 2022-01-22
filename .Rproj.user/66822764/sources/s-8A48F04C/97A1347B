@@ -3,7 +3,7 @@
     "path": "~/GitHub/chen-yixing.github.io/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "52406313",
+    "hash": "2359164056",
     "contents": "",
     "dirty": false,
     "created": 1642779694566.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "15,454",
+        "cursorPosition": "15,1319",
         "scrollLine": "14"
     },
     "folds": "",
-    "lastKnownWriteTime": 1642811856,
+    "lastKnownWriteTime": 1642860579,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1642811856546,
+    "last_content_update": 1642860579257,
     "read_only": false,
     "read_only_alternatives": []
 }
