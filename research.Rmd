@@ -42,7 +42,7 @@ pagetitle: "Research"
 &nbsp;
 
 
-### Other Papers
+### Other Publications
 
 1. Chen, Yixing, Shrihari Sridhar, and Vikas Mittal (2021), “Treatment Effect Heterogeneity in Randomized Field Experiments: A Methodological Comparison and Public Policy Implications,” ***Journal of Public Policy & Marketing***  - Accepted (awaiting publication). [Link](https://doi.org/10.1177%2F07439156211032751)
 &nbsp;
