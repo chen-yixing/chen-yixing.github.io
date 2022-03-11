@@ -8,8 +8,10 @@ pagetitle: "Teaching"
 
 ### Mendoza College of Business, University of Notre Dame
 
-- Marketing Analytics (MBA, MSBA) 
+- Marketing Analytics (MBA)
   - Spring 2021 (Rating: 5/5)
+  - Spring 2022 (Rating: 4.7/5)
+
 <p>&nbsp;</p>
 - Marketing Analytics (Undergraduate)
   - Spring 2021 (Session 1 - Rating: 5/5; Session 2 - Rating: 5/5)
