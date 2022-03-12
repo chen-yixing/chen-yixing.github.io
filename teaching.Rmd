@@ -45,7 +45,7 @@ pagetitle: "Teaching"
 
 
 - Marketing Analytics (Undergraduate)
-    - Fall 2018 (Session 1 - Rating: 4.89/5; Session 2 - Rating: 4.80/5)
+    - Fall 2018 (Session 1 - Rating: 4.89/5; Session 2 - Rating: 4.8/5)
     - Dean’s Award for Outstanding Teaching
 <p>&nbsp;</p> 
 
