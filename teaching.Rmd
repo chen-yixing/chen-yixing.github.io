@@ -14,7 +14,7 @@ pagetitle: "Teaching"
 
 <p>&nbsp;</p>
 - Marketing Analytics (Undergraduate)
-  - Spring 2021 (Session 1 - Rating: 5/5; Session 2 - Rating: 5/5)
+  - Spring 2021 (Section 1 - Rating: 5/5; Section 2 - Rating: 5/5)
 <p>&nbsp;</p>
 
 #### Selected Student Comments
@@ -45,7 +45,7 @@ pagetitle: "Teaching"
 
 
 - Marketing Analytics (Undergraduate)
-    - Fall 2018 (Session 1 - Rating: 4.89/5; Session 2 - Rating: 4.8/5)
+    - Fall 2018 (Section 1 - Rating: 4.89/5; Section 2 - Rating: 4.8/5)
     - Dean’s Award for Outstanding Teaching
 <p>&nbsp;</p> 
 
