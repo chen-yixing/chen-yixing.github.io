@@ -32,7 +32,6 @@ pagetitle: "Talks"
 
 
 ### Conference Presentations 
-- ISMS Marketing Science Conference, June 2022*
 
 - Neeley Analytics Conference, Texas Christian University, March 2022*
 
