@@ -3,7 +3,7 @@
     "path": "~/GitHub/chen-yixing.github.io/award.Rmd",
     "project_path": "award.Rmd",
     "type": "r_markdown",
-    "hash": "2493855603",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1647392340631.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "28,3",
-        "scrollLine": "12"
+        "cursorPosition": "9,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1647392948,
+    "lastKnownWriteTime": 1647399420,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1647392948756,
+    "last_content_update": 1647399420080,
     "read_only": false,
     "read_only_alternatives": []
 }
