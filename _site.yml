@@ -7,6 +7,8 @@ navbar:
       href: research.html
     - text: "Teaching"
       href: teaching.html
+    - text: "Honors & Awards"
+      href: award.html
     - text: "Talks"
       href: talk.html
       
