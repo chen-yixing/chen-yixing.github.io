@@ -1,26 +1,26 @@
 {
-    "id": "97A1347B",
-    "path": "~/GitHub/chen-yixing.github.io/index.Rmd",
-    "project_path": "index.Rmd",
+    "id": "D263928F",
+    "path": "~/GitHub/chen-yixing.github.io/talk.Rmd",
+    "project_path": "talk.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1642779694566.0,
+    "created": 1647389396902.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 4,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "16,0",
-        "scrollLine": "0"
+        "cursorPosition": "10,0",
+        "scrollLine": "4"
     },
     "folds": "",
-    "lastKnownWriteTime": 1647102053,
+    "lastKnownWriteTime": 1649385776,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1647102053,
+    "last_content_update": 1649385776363,
     "read_only": false,
     "read_only_alternatives": []
 }
