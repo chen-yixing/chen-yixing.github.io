@@ -5,7 +5,7 @@ pagetitle: "Talks"
 <p>&nbsp;</p>
 
 ### Invited Presentations
-- Wharton School, University of Pennsylvania, June 2022 (scheduled)
+- Wharton School, University of Pennsylvania (Responsible Research Summit), June 2022
 
 - American University (NSF Convergence Workshop on Human-AI Frontier), May 2022
 
