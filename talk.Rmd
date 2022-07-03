@@ -5,6 +5,8 @@ pagetitle: "Talks"
 <p>&nbsp;</p>
 
 ### Invited Presentations
+- Mays Business School, Texas A&M University (Marketing Strategy Doctoral Consortium), June 2022
+
 - Wharton School, University of Pennsylvania (Responsible Research Summit), June 2022
 
 - American University (NSF Convergence Workshop on Human-AI Frontier), May 2022
