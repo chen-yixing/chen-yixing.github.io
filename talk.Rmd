@@ -5,6 +5,8 @@ pagetitle: "Talks"
 <p>&nbsp;</p>
 
 ### Invited Presentations
+- University of Notre Dame (First Lecture Series), August 2022 (scheduled)
+
 - Mays Business School, Texas A&M University (Marketing Strategy Doctoral Consortium), June 2022
 
 - Wharton School, University of Pennsylvania (Responsible Research Summit), June 2022
@@ -18,6 +20,8 @@ pagetitle: "Talks"
 - Renmin Business School, Renmin University of China, December 2021
 
 - London School of Economics and Political Science, November 2021
+
+- University of Notre Dame (First Lecture Series), August 2021
 
 -	*Moment to See, Courage to Act* 3-Minute Lightning Talks, University of Notre Dame, April 2021
 
