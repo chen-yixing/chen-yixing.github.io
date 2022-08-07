@@ -35,10 +35,11 @@ pagetitle: "Research"
 
 ### Working Papers
 
-1. Chen, Yixing, Taehoon Im, Muzeeb Shaik, Narendra Bosukonda, Sonam Singh, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3970182)
+1. Chen, Yixing, Kyuhong Han, Taehoon Im, Sonam Singh, Shrihari Sridhar, and Vikas Mittal (2022), “Return on Safety Training,” working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3890177)
+
+2. Chen, Yixing, Taehoon Im, Muzeeb Shaik, Narendra Bosukonda, Sonam Singh, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3970182)
 &nbsp;
 
-2. Chen, Yixing, Kyuhong Han, Taehoon Im, Sonam Singh, Shrihari Sridhar, and Vikas Mittal (2021), “Return on Safety Training,” working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3890177)
 
 &nbsp;
 
