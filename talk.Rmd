@@ -44,7 +44,7 @@ pagetitle: "Talks"
 ### Conference Presentations 
 - Conference on Information Systems and Technology, October 2022 (scheduled)
 
-- AMA Summer Academic Conference (Paul E. Green Award Session and AMA EBSCO RRBM Awards Session), August 2022 (scheduled)
+- AMA Summer Academic Conference (Paul E. Green Award Session and AMA EBSCO RRBM Awards Session), August 2022
 
 - ISMS Marketing Science Conference, University of Chicago (virtual), June 2022*
 
