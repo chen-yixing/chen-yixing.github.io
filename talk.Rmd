@@ -5,7 +5,7 @@ pagetitle: "Talks"
 <p>&nbsp;</p>
 
 ### Invited Presentations
-- University of Notre Dame (First Lecture Series), August 2022 (scheduled)
+- University of Notre Dame (First Lecture Series), August 2022
 
 - Mays Business School, Texas A&M University (Marketing Strategy Doctoral Consortium), June 2022
 
