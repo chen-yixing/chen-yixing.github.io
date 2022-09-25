@@ -33,8 +33,6 @@ pagetitle: "Talks"
 
 - Mendoza College of Business, University of Notre Dame, August 2019
 
-- 37th University of Houston Annual Marketing Doctoral Symposium, April 2019
-
 - School of International Business and Management, Sichuan International Studies University, June 2018 
 
 &nbsp;
@@ -42,9 +40,11 @@ pagetitle: "Talks"
 
 
 ### Conference Presentations 
+- Marketing Dynamics Conference, Georgia State University, November 2022 (scheduled)
+
 - China India Insights Conference, USC Marshall School of Business, October 2022 (scheduled)
 
-- Conference on Information Systems and Technology, October 2022 (scheduled)
+- Conference on Information Systems and Technology, October 2022 (scheduled)*
 
 - AMA Summer Academic Conference (Paul E. Green Award Session and AMA EBSCO RRBM Awards Session), August 2022
 
