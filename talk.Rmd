@@ -40,6 +40,8 @@ pagetitle: "Talks"
 
 
 ### Conference Presentations 
+- Workshop on Information Systems and Economics, Copenhagen Business School, December 2022 (scheduled)*
+
 - Marketing Dynamics Conference, Georgia State University, November 2022 (scheduled)
 
 - China India Insights Conference, USC Marshall School of Business, October 2022 (scheduled)
