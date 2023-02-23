@@ -42,6 +42,8 @@ pagetitle: "Talks"
 ### Conference Presentations
 - Production and Operations Management Society Annual Conference, May 2023 (scheduled)*
 
+- NBER Workshop of Digital Economics, March 2023 (scheduled)* 
+
 - Artificial Intelligence in Management Conference, USC Marshall School of Business, March 2023 (scheduled)*
 
 - Workshop on Information Systems and Economics, Copenhagen Business School, December 2022*
