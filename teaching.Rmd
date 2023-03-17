@@ -11,6 +11,8 @@ pagetitle: "Teaching"
 - Marketing Analytics (MBA)
   - Spring 2021 (Rating: 5/5)
   - Spring 2022 (Rating: 4.7/5)
+  - Spring 2023 (Rating: 4.9/5)
+
 
 <p>&nbsp;</p>
 - Marketing Analytics (Undergraduate)
