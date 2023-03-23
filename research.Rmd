@@ -8,6 +8,7 @@ pagetitle: "Research"
 
 
 1.  Chen, Yixing, Vikas Mittal, and Shrihari Sridhar (2021), “Investigating the Academic Performance and Disciplinary Consequences of School District Internet Access Spending,” ***Journal of Marketing Research***, 58 (1), 141-162. [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022243720964130); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022243720964130/suppl_file/Web_Appendix_FINAL_(Chen_Mittal_Sridhar).pdf)
+    - **Distinguished Winner, 2023 AMA-EBSCO-RRBM Award for Responsible Research in Marketing**
     - **Finalist, 2021 Paul E. Green Award** 
     - [Top 1%](https://sage.altmetric.com/details/94875362#score) of the Attention Scores of all research outputs tracked by Altmetric
     - Previously circulated under the title "Broadband Internet Access: A Double-Edged Sword for K-12 Education"
