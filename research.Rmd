@@ -9,7 +9,7 @@ pagetitle: "Research"
 
 1.  Chen, Yixing, Vikas Mittal, and Shrihari Sridhar (2021), “Investigating the Academic Performance and Disciplinary Consequences of School District Internet Access Spending,” ***Journal of Marketing Research***, 58 (1), 141-162. [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022243720964130); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022243720964130/suppl_file/Web_Appendix_FINAL_(Chen_Mittal_Sridhar).pdf)
     - **Distinguished Winner, 2023 AMA-EBSCO-RRBM Award for Responsible Research in Marketing**
-    - **Finalist, 2021 Paul E. Green Award** 
+    - **Finalist, 2021 Paul E. Green Award (JMR Best Paper Award)** 
     - [Top 1%](https://sage.altmetric.com/details/94875362#score) of the Attention Scores of all research outputs tracked by Altmetric
     - Previously circulated under the title "Broadband Internet Access: A Double-Edged Sword for K-12 Education"
     - Media Coverage: [Notre Dame News](https://news.nd.edu/news/internet-access-spending-in-public-school-districts-increases-test-scores-but-also-disciplinary-problems-study-shows/), [K-12 Dive](https://www.k12dive.com/news/study-increased-internet-access-improves-achievement-district-finances/595246/), [Science Daily](https://www.sciencedaily.com/releases/2021/02/210216133432.htm), [Newswise](https://www.newswise.com/articles/internet-access-spending-in-public-school-districts-increases-test-scores-but-also-disciplinary-problems-study-shows), [sciencenewsnet.in](https://sciencenewsnet.in/internet-access-spending-in-public-school-districts-increases-test-scores-but-also-disciplinary-problems-study-shows/), [EurekAlert!](https://www.eurekalert.org/pub_releases/2021-02/uond-ias021621.php), [Phys.org](https://phys.org/news/2021-02-internet-access-schools-scores-disciplinary.html), [research@TexasA&M](https://research.tamu.edu/2021/04/27/schools-are-reaping-big-dividends-from-investments-in-online-access/)
@@ -19,7 +19,7 @@ pagetitle: "Research"
 2.  Chen, Yixing, Ju-Yeon Lee, Shrihari Sridhar, Vikas Mittal, Katharine McCallister, and Amit G. Singal (2020), “Improving Cancer Outreach Effectiveness through Targeting and Economic Assessments: Insights from a Randomized Field Experiment,” ***Journal of Marketing***, 84 (3), 1–27 (Lead Article). [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022242920913025); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022242920913025)
     - **Inaugural Winner, Financial Times Responsible Business Education Award on Academic Research** 
     - **Finalist, 2022 AMA-EBSCO-RRBM Award for Responsible Research in Marketing**
-    - **Finalist, 2020 AMA/Marketing Science Institute/H. Paul Root Award**
+    - **Finalist, 2020 AMA/Marketing Science Institute/H. Paul Root Award (JM Best Paper Award)**
     - Invited for [JM Webinar Series: Insights for Managers](https://www.ama.org/jm-webinar-personalized-cancer-outreach-saves-both-lives-and-money/) and [Notre Dame 3-Minute Lightning Talk
 ](https://drive.google.com/file/d/11Apgq5RBHi4ZhKd8fP6kLEse4CShBmON/view)
     - [Top 2%](https://sage.altmetric.com/details/78200414#score) of the Attention Scores of all research outputs tracked by Altmetric
@@ -29,7 +29,7 @@ pagetitle: "Research"
 &nbsp;
     
 3.  Kanuri, Vamsi K., Yixing Chen, and Shrihari Sridhar (2018), “Scheduling Content on Social Media: Theory, Evidence, and Application,” ***Journal of Marketing***, 82 (6), 89–108. [Link](https://journals.sagepub.com/doi/10.1177/0022242918805411); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022242918805411) 
-    - **Finalist, 2018 AMA/Marketing Science Institute/H. Paul Root Award**
+    - **Finalist, 2018 AMA/Marketing Science Institute/H. Paul Root Award (JM Best Paper Award)**
     - Selected for publication in ***Harvard Business Review*** (digital article), [“A Study Shows the Best Times of Day to Post to Social Media”](https://hbr.org/2018/09/a-study-shows-the-best-times-of-day-to-post-to-social-media)
     - Media Coverage: [JM Scholarly Insights](https://www.ama.org/resources/Pages/social-media-strategists-here-is-the-science-behind-scheduling-content.aspx), @[Mays Headlines](https://mays.tamu.edu/wp-content/uploads/2019/01/@Mays-fall-2018-The-Business-of-Healthcare.pdf), [AACSB](https://bized.aacsb.edu/articles/2019/january/the-science-of-social-media), [Notre Dame News](https://news.nd.edu/news/capitalizing-on-sleep-wake-cycle-can-drastically-increase-digital-ad-profits-from-social-media-study-shows/), [Mendoza Business Magazine](http://bizmagazine.nd.edu/issues/2019/spring-2019/research-why-the-early-bird-gets-the-clicks/),  [ScienceDaily](https://www.sciencedaily.com/releases/2018/09/180918131711.htm), [Keller Center Report](https://www.baylor.edu/business/kellercenter/news.php?action=story&story=215313), [Phys.org](https://phys.org/news/2018-09-capitalizing-sleep-wake-drastically-digital-ad.html), [Communications of the Association for Computing Machinery](https://cacm.acm.org/news/231317-capitalizing-on-sleep-wake-cycle-can-drastically-increase-digital-ad-profits-from-social-media-study-shows/fulltext)                                 
 &nbsp;
