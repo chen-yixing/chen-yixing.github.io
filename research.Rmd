@@ -40,7 +40,9 @@ pagetitle: "Research"
 
 2. Chen, Yixing, Kyuhong Han, Taehoon Im, Sonam Singh, Shrihari Sridhar, and Vikas Mittal (2022), “Return on Safety Training,” working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3890177)
 
-3. Chen, Yixing, Taehoon Im, Muzeeb Shaik, Narendra Bosukonda, Sonam Singh, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3970182)
+3. Li, Wenchang, Yixing Chen, and John P. Lalor (2023), “Stars Are All You Need: A Distantly Supervised Pyramid Network for Document-Level End-to-End Sentiment Analysis,” working paper.
+
+4. Chen, Yixing, Taehoon Im, Muzeeb Shaik, Narendra Bosukonda, Sonam Singh, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3970182)
 &nbsp;
 
 &nbsp;
