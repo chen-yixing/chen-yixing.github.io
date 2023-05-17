@@ -40,7 +40,7 @@ pagetitle: "Talks"
 
 
 ### Conference Presentations
-- Production and Operations Management Society Annual Conference, May 2023 (scheduled)*
+- Columbia/Wharton Management, Analytics, and Data Conference, May 2023 (scheduled)*
 
 - NBER Workshop of Digital Economics, March 2023* 
 
