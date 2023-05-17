@@ -18,6 +18,7 @@ pagetitle: "Teaching"
 - Marketing Analytics (Undergraduate)
   - Spring 2021 (Section 1 - Rating: 5/5; Section 2 - Rating: 5/5)
   - Spring 2022 (Section 1 - Rating: 5/5; Section 2 - Rating: 4.9/5)
+  - Spring 2023 (Section 1 - Rating: 5/5; Section 2 - Rating: 4.7/5)
 
 <p>&nbsp;</p>
 
