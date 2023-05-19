@@ -36,7 +36,7 @@ pagetitle: "Research"
 
 ### Working Papers
 
-1. Lei, Xiaoxia, Yixing Chen, and Ananya Sen (2023), “The Value of External Data for Digital Platforms: Evidence from a Field Experiment on Search Suggestions,” working paper. [Link]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452804]); [NBER Workshop of Digital Economics](https://www.nber.org/conferences/economics-digitization-spring-2023)
+1. Lei, Xiaoxia, Yixing Chen, and Ananya Sen (2023), “The Value of External Data for Digital Platforms: Evidence from a Field Experiment on Search Suggestions,” working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452804); [NBER Workshop of Digital Economics](https://www.nber.org/conferences/economics-digitization-spring-2023)
 
 2. Chen, Yixing, Kyuhong Han, Taehoon Im, Sonam Singh, Shrihari Sridhar, and Vikas Mittal (2022), “Return on Safety Training,” working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3890177)
 
