@@ -38,7 +38,7 @@ pagetitle: "Research"
 
 1. Lei, Xiaoxia, Yixing Chen, and Ananya Sen (2023), “The Value of External Data for Digital Platforms: Evidence from a Field Experiment on Search Suggestions,” working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452804); [NBER Workshop of Digital Economics](https://www.nber.org/conferences/economics-digitization-spring-2023)
 
-2. Chen, Yixing, John P. Lalor, Wenchang Li, and Xin Luo (2023), "Advancing the Design of Online Review Systems in Education: A Field Experiment on Multidimensional Ratings," working paper.
+2. Chen, Yixing, John P. Lalor, Wenchang Li, and Xin Luo (2023), "Advancing the Design of Online Review Systems in Education: A Field Experiment on Multidimensional Ratings," working paper. (First two authors equal authorship) 
 
 3. Li, Wenchang, Yixing Chen, and John P. Lalor (2023), “Stars Are All You Need: A Distantly Supervised Pyramid Network for Document-Level End-to-End Sentiment Analysis,” working paper. [arXiv](https://arxiv.org/abs/2305.01710)
 
