@@ -5,6 +5,13 @@ pagetitle: "Talks"
 <p>&nbsp;</p>
 
 ### Invited Presentations
+
+- University of Texas at Austin (Mcombs), October 2023 (scheduled)
+
+- Southwestern University of Finance and Economics, July 2023 
+
+- Soochow University, June 2023 
+
 - University of Notre Dame (First Lecture Series), August 2022
 
 - Mays Business School, Texas A&M University (Marketing Strategy Doctoral Consortium), June 2022
@@ -40,7 +47,13 @@ pagetitle: "Talks"
 
 
 ### Conference Presentations
-- Columbia/Wharton Management, Analytics, and Data Conference, May 2023 (scheduled)*
+- NBER Economics of Artificial Intelligence Conference, September 2023 (scheduled)*
+
+- 11th Operations and Supply Chain Workshop (East China University of Science and Technology), July 2023
+
+- Online seminar on the Economics of Platforms (Toulouse), July 2023*
+
+- Columbia/Wharton Management, Analytics, and Data Conference, May 2023*
 
 - NBER Workshop of Digital Economics, March 2023* 
 
