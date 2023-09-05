@@ -6,7 +6,7 @@ pagetitle: "Talks"
 
 ### Invited Presentations
 
-- University of Texas at Austin (Mcombs), October 2023 (scheduled)
+- University of Texas at Austin (McCombs), October 2023 (scheduled)
 
 - Southwestern University of Finance and Economics, July 2023 
 
