@@ -43,18 +43,23 @@ pagetitle: "Research"
 
 &nbsp;
 
-2. Chen, Yixing, John P. Lalor, Wenchang Li, and Xin Luo (2023), "Advancing the Design of Online Review Systems in Education: A Field Experiment on Multidimensional Ratings," working paper. (First two authors equal authorship) 
+2. Chen, Yixing\*, John P. Lalor\*, Wenchang Li, and Xin Luo (2023), "Advancing the Design of Online Review Systems in Education: A Field Experiment on Multidimensional Ratings," working paper. 
 
-3. Hou, Liwen, Xinxue Qu, Yixing Chen, Kai Yu, and Ling Xue (2023), “Strategizing Value-Added Services for Platform Firms,” working paper. (First two authors equal authorship)
+3. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, Kai Yu, and Ling Xue (2023), “Strategizing Value-Added Services for Platform Firms,” working paper.
 
-4. Chen, Yixing, Kyuhong Han, Taehoon Im, Sonam Singh, Shrihari Sridhar, and Vikas Mittal (2023), “The Value of Safety Training for Business-to-Business Firms,” working paper. 
+4. Siliang Tong\*, Shuang Zheng\*, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2023), “Information Design for Mobile Food-Ordering Platforms: A Field Experiment on Restaurant Ratings” working paper.
+
+5. Chen, Yixing, Kyuhong Han, Taehoon Im, Sonam Singh, Shrihari Sridhar, and Vikas Mittal (2023), “The Value of Safety Training for Business-to-Business Firms,” working paper. 
    - Previously circulated under the title "Return on Safety Training" [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3890177)
 
 &nbsp;
 
-5. Li, Wenchang, Yixing Chen, and John P. Lalor (2023), “Stars Are All You Need: A Distantly Supervised Pyramid Network for Document-Level End-to-End Sentiment Analysis,” working paper. [arXiv](https://arxiv.org/abs/2305.01710)
+6. Li, Wenchang, Yixing Chen, and John P. Lalor (2023), “Stars Are All You Need: A Distantly Supervised Pyramid Network for Document-Level End-to-End Sentiment Analysis,” working paper. [arXiv](https://arxiv.org/abs/2305.01710)
 
-6. Chen, Yixing, Taehoon Im, Muzeeb Shaik, Narendra Bosukonda, Sonam Singh, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3970182)
+7. Chen, Yixing, Taehoon Im, Muzeeb Shaik, Narendra Bosukonda, Sonam Singh, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3970182)
+  
+&nbsp;
+\*Equal Contribution
 
 &nbsp;
 
