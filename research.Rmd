@@ -36,7 +36,7 @@ pagetitle: "Research"
 
 ### Working Papers
 1. Chen, Yixing, Kyuhong Han, Taehoon Im, Sonam Singh, Shrihari Sridhar, and Vikas Mittal (2023), “The Value of Safety Training for Business-to-Business Firms,” conditional accept at ***Journal of Marketing Research***. 
-   - Previously circulated under the title "Return on Safety Training" [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3890177)
+   - Previously circulated under the title "Return on Safety Training"
   
 &nbsp;
  
