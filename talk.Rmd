@@ -48,8 +48,8 @@ pagetitle: "Talks"
 &nbsp;
 
 
-### Conference Presentations
-- NBER Economics of Artificial Intelligence Conference, September 2023 (scheduled)*
+### Selected Conference Presentations
+- NBER Economics of Artificial Intelligence Conference, September 2023*
 
 - Online seminar on the Economics of Platforms (Toulouse), July 2023*
 
@@ -81,8 +81,8 @@ pagetitle: "Talks"
 
 - AMA Winter Educators’ Conference, February 2018 
 
--	Thought Leader Conference on Marketing Strategy in Digital, Data-rich, and Developing market Environments, June 2017                                                                                                                
-- AMS Annual Conference, May 2015*
+-	Thought Leader Conference on Marketing Strategy in Digital, Data-rich, and Developing market Environments, June 2017 
+
 
   *presentations by co-authors
 
