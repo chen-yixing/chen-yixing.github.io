@@ -35,19 +35,18 @@ pagetitle: "Research"
 &nbsp;
 
 ### Working Papers
-1. Chen, Yixing, Kyuhong Han, Taehoon Im, Sonam Singh, Shrihari Sridhar, and Vikas Mittal (2023), “The Value of Safety Training for Business-to-Business Firms,” conditional accept at ***Journal of Marketing Research***. 
+1. Chen, Yixing, Shrihari Sridhar, Kyuhong Han, Sonam Singh, Vikas Mittal, and Taehoon Im (2023), “The Value of Safety Training for Business-to-Business Firms,” conditional accept at ***Journal of Marketing Research***. 
    - Previously circulated under the title "Return on Safety Training"
   
 &nbsp;
  
 2. Lei, Xiaoxia, Yixing Chen, and Ananya Sen (2023), “The Value of External Data for Digital Platforms: Evidence from a Field Experiment on Search Suggestions,” revise and resubmit at ***Management Science***. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452804)
-    - Shortlisted as 2023 INFORMS Conference Information Systems Society Cluster Best Paper 
     - Selected for presentation at the [NBER Workshop of Digital Economics](https://www.nber.org/conferences/economics-digitization-spring-2023) 
     - Selected for presentation at the [NBER Economics of Artificial Intelligence Conference](https://www.nber.org/conferences/economics-artificial-intelligence-conference-fall-2023)
 
 &nbsp;
 
-3. Chen, Yixing\*, John P. Lalor\*, Wenchang Li, and Xin Luo (2023), "Advancing the Design of Online Review Systems in Education: A Field Experiment on Multidimensional Ratings," working paper. 
+3. Chen, Yixing\*, John P. Lalor\*, Wenchang Li, and Xin Luo (2023), "Advancing the Design of Online Review Systems in Education: A Field Experiment on Multidimensional Ratings," revise and resubmit at ***MIS Quarterly***. 
 
 4. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, Kai Yu, and Ling Xue (2023), “Strategizing Value-Added Services for Platform Firms,” working paper.
 
