@@ -48,7 +48,7 @@ pagetitle: "Research"
 
 3. Chen, Yixing\*, John P. Lalor\*, Wenchang Li, and Xin Luo (2023), "Advancing the Design of Online Review Systems in Education: A Field Experiment on Multidimensional Ratings," revise and resubmit at ***MIS Quarterly***. 
 
-4. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, Kai Yu, and Ling Xue (2023), “Strategizing Value-Added Services for Platform Firms,” working paper.
+4. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, Kai Yu, and Ling Xue (2023), “Strategizing Value-Added Services for Platform Firms,” revise and resubmit at ***Production and Operations Management***.
 
 5. Tong, Siliang (Jack)\*, Shuang Zheng\*, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2023), “Search Interface Design of On-Demand Service Platforms: A Field Experiment on Restaurant Ratings” working paper.
 
