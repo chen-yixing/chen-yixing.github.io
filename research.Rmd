@@ -50,7 +50,7 @@ pagetitle: "Research"
 
 4. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, Kai Yu, and Ling Xue (2023), “Strategizing Value-Added Services for Platform Firms,” revise and resubmit at ***Production and Operations Management***.
 
-5. Tong, Siliang (Jack)\*, Shuang Zheng\*, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2023), “Search Interface Design of On-Demand Service Platforms: A Field Experiment on Restaurant Ratings” working paper.
+5. Tong, Siliang\*, Shuang Zheng\*, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2023), “Choice Architecture for a Better On-Demand Economy: A Field Experiment on Rating Disclosure in Mobile Search” working paper.
 
 6. Zheng, Shuang, John P. Lalor, Yixing Chen, and Xianneng Li (2023), “Mitigating the Matthew Effect in Recommender Systems: Descriptive Evidence, Methodology, and Application” working paper.
 
@@ -67,7 +67,7 @@ pagetitle: "Research"
 
 1. Singal, Amit G., Yixing Chen, Shrihari Sridhar, Vikas Mittal, Hannah Fullington, Muzeeb Shaik, Akbar K. Waljee and  Jasmin Tiro (2022), “Novel Application of Predictive Modeling: Identifying Patients for a Tailored Approach to Promoting HCC Surveillance in Patients with Cirrhosis,” ***Clinical Gastroenterology and Hepatology***, 20 (8), 1795–1802. 2022 Impact Factor: 12.6. [Link](https://www.sciencedirect.com/science/article/pii/S1542356521002172)
 
-2. Chen, Yixing, Shrihari Sridhar, and Vikas Mittal (2021), “Treatment Effect Heterogeneity in Randomized Field Experiments: A Methodological Comparison and Public Policy Implications,” ***Journal of Public Policy & Marketing***, 40 (4), 457–62. [Link](https://doi.org/10.1177%2F07439156211032751) 
+2. Chen, Yixing, Shrihari Sridhar, and Vikas Mittal (2021), “Treatment Effect Heterogeneity in Randomized Field Experiments: A Methodological Comparison and Public Policy Implications,” ***Journal of Public Policy & Marketing***, 40 (4), 457–62 (Invited Article). [Link](https://doi.org/10.1177%2F07439156211032751) 
  
 3. Chen, Yixing (2021), “Three Ways Nonprofits Grow Revenues,” ***Impact at JMR***. [Link](https://www.ama.org/2021/01/26/three-ways-nonprofits-grow-revenues/?utm_source=rss&utm_medium=rss&utm_campaign=three-ways-nonprofits-grow-revenues) 
 
