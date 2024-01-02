@@ -5,9 +5,12 @@ pagetitle: "Research"
 <p>&nbsp;</p>
 
 ### Publications
+1. Chen, Yixing, Shrihari Sridhar, Kyuhong Han, Sonam Singh, Vikas Mittal, and Taehoon Im, “The Value of Safety Training for Business-to-Business Firms,” ***Journal of Marketing Research***, forthcoming. [Link](https://journals.sagepub.com/doi/10.1177/00222437231222857)
+   - Previously circulated under the title "Return on Safety Training"
 
+&nbsp;
 
-1.  Chen, Yixing, Vikas Mittal, and Shrihari Sridhar (2021), “Investigating the Academic Performance and Disciplinary Consequences of School District Internet Access Spending,” ***Journal of Marketing Research***, 58 (1), 141-162. [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022243720964130); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022243720964130/suppl_file/Web_Appendix_FINAL_(Chen_Mittal_Sridhar).pdf)
+2.  Chen, Yixing, Vikas Mittal, and Shrihari Sridhar (2021), “Investigating the Academic Performance and Disciplinary Consequences of School District Internet Access Spending,” ***Journal of Marketing Research***, 58 (1), 141-162. [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022243720964130); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022243720964130/suppl_file/Web_Appendix_FINAL_(Chen_Mittal_Sridhar).pdf)
     - **Distinguished Winner, 2023 AMA-EBSCO-RRBM Award for Responsible Research in Marketing**
     - **Finalist, 2021 Paul E. Green Award (JMR Best Paper Award)** 
     - [Top 1%](https://sage.altmetric.com/details/94875362#score) of the Attention Scores of all research outputs tracked by Altmetric
@@ -16,7 +19,7 @@ pagetitle: "Research"
 
 &nbsp;
 
-2.  Chen, Yixing, Ju-Yeon Lee, Shrihari Sridhar, Vikas Mittal, Katharine McCallister, and Amit G. Singal (2020), “Improving Cancer Outreach Effectiveness through Targeting and Economic Assessments: Insights from a Randomized Field Experiment,” ***Journal of Marketing***, 84 (3), 1–27 (Lead Article). [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022242920913025); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022242920913025)
+3.  Chen, Yixing, Ju-Yeon Lee, Shrihari Sridhar, Vikas Mittal, Katharine McCallister, and Amit G. Singal (2020), “Improving Cancer Outreach Effectiveness through Targeting and Economic Assessments: Insights from a Randomized Field Experiment,” ***Journal of Marketing***, 84 (3), 1–27 (Lead Article). [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022242920913025); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022242920913025)
     - **Inaugural Winner, Financial Times Responsible Business Education Award on Academic Research** 
     - **Finalist, 2022 AMA-EBSCO-RRBM Award for Responsible Research in Marketing**
     - **Finalist, 2020 AMA/Marketing Science Institute/H. Paul Root Award (JM Best Paper Award)**
@@ -28,35 +31,31 @@ pagetitle: "Research"
 
 &nbsp;
     
-3.  Kanuri, Vamsi K., Yixing Chen, and Shrihari Sridhar (2018), “Scheduling Content on Social Media: Theory, Evidence, and Application,” ***Journal of Marketing***, 82 (6), 89–108. [Link](https://journals.sagepub.com/doi/10.1177/0022242918805411); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022242918805411) 
+4.  Kanuri, Vamsi K., Yixing Chen, and Shrihari Sridhar (2018), “Scheduling Content on Social Media: Theory, Evidence, and Application,” ***Journal of Marketing***, 82 (6), 89–108. [Link](https://journals.sagepub.com/doi/10.1177/0022242918805411); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022242918805411) 
     - **Finalist, 2018 AMA/Marketing Science Institute/H. Paul Root Award (JM Best Paper Award)**
     - Selected for publication in ***Harvard Business Review*** (digital article), [“A Study Shows the Best Times of Day to Post to Social Media”](https://hbr.org/2018/09/a-study-shows-the-best-times-of-day-to-post-to-social-media)
     - Media Coverage: [JM Scholarly Insights](https://www.ama.org/resources/Pages/social-media-strategists-here-is-the-science-behind-scheduling-content.aspx), @[Mays Headlines](https://mays.tamu.edu/wp-content/uploads/2019/01/@Mays-fall-2018-The-Business-of-Healthcare.pdf), [AACSB](https://bized.aacsb.edu/articles/2019/january/the-science-of-social-media), [Notre Dame News](https://news.nd.edu/news/capitalizing-on-sleep-wake-cycle-can-drastically-increase-digital-ad-profits-from-social-media-study-shows/), [Mendoza Business Magazine](http://bizmagazine.nd.edu/issues/2019/spring-2019/research-why-the-early-bird-gets-the-clicks/),  [ScienceDaily](https://www.sciencedaily.com/releases/2018/09/180918131711.htm), [Keller Center Report](https://www.baylor.edu/business/kellercenter/news.php?action=story&story=215313), [Phys.org](https://phys.org/news/2018-09-capitalizing-sleep-wake-drastically-digital-ad.html), [Communications of the Association for Computing Machinery](https://cacm.acm.org/news/231317-capitalizing-on-sleep-wake-cycle-can-drastically-increase-digital-ad-profits-from-social-media-study-shows/fulltext)                                 
 &nbsp;
 
 ### Working Papers
-1. Chen, Yixing, Shrihari Sridhar, Kyuhong Han, Sonam Singh, Vikas Mittal, and Taehoon Im (2023), “The Value of Safety Training for Business-to-Business Firms,” conditional accept at ***Journal of Marketing Research***. 
-   - Previously circulated under the title "Return on Safety Training"
-  
-&nbsp;
- 
-2. Lei, Xiaoxia, Yixing Chen, and Ananya Sen (2023), “The Value of External Data for Digital Platforms: Evidence from a Field Experiment on Search Suggestions,” revise and resubmit at ***Management Science***. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452804)
+
+1. Lei, Xiaoxia, Yixing Chen, and Ananya Sen (2023), “The Value of External Data for Digital Platforms: Evidence from a Field Experiment on Search Suggestions,” revise and resubmit at ***Management Science***. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452804)
     - Selected for presentation at the [NBER Workshop of Digital Economics](https://www.nber.org/conferences/economics-digitization-spring-2023) 
     - Selected for presentation at the [NBER Economics of Artificial Intelligence Conference](https://www.nber.org/conferences/economics-artificial-intelligence-conference-fall-2023)
 
 &nbsp;
 
-3. Chen, Yixing\*, John P. Lalor\*, Wenchang Li, and Xin Luo (2023), "Advancing the Design of Online Review Systems in Education: A Field Experiment on Multidimensional Ratings," revise and resubmit at ***MIS Quarterly***. 
+2. Chen, Yixing\*, John P. Lalor\*, Wenchang Li, and Xin Luo (2023), "Advancing the Design of Online Review Systems in Education: A Field Experiment on Multidimensional Ratings," revise and resubmit at ***MIS Quarterly***. 
 
-4. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, Kai Yu, and Ling Xue (2023), “Strategizing Value-Added Services for Platform Firms,” revise and resubmit at ***Production and Operations Management***.
+3. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, Kai Yu, and Ling Xue (2023), “Strategizing Value-Added Services for Platform Firms,” revise and resubmit at ***Production and Operations Management***.
 
-5. Tong, Siliang\*, Shuang Zheng\*, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2023), “Choice Architecture for a Better On-Demand Economy: A Field Experiment on Rating Disclosure in Mobile Search” working paper.
+4. Tong, Siliang\*, Shuang Zheng\*, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2024), “Choice Architecture for a Better On-Demand Economy: A Field Experiment on Rating Disclosure in Mobile Search” working paper.
 
-6. Zheng, Shuang, John P. Lalor, Yixing Chen, and Xianneng Li (2023), “Mitigating the Matthew Effect in Recommender Systems: Descriptive Evidence, Methodology, and Application” working paper.
+5. Zheng, Shuang, John P. Lalor, Yixing Chen, and Xianneng Li (2024), “Mitigating the Matthew Effect in Recommender Systems: Descriptive Evidence, Methodology, and Application” working paper.
 
-7. Li, Wenchang, Yixing Chen, and John P. Lalor (2023), “Stars Are All You Need: A Distantly Supervised Pyramid Network for Document-Level End-to-End Sentiment Analysis,” working paper. [arXiv](https://arxiv.org/abs/2305.01710)
+6. Li, Wenchang, Yixing Chen, and John P. Lalor (2023), “Stars Are All You Need: A Distantly Supervised Pyramid Network for Document-Level End-to-End Sentiment Analysis,” working paper. [arXiv](https://arxiv.org/abs/2305.01710)
 
-8. Chen, Yixing, Taehoon Im, Muzeeb Shaik, Narendra Bosukonda, Sonam Singh, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” resting paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3970182)
+7. Chen, Yixing, Taehoon Im, Muzeeb Shaik, Narendra Bosukonda, Sonam Singh, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” resting paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3970182)
   
 &nbsp;
 \*Equal Contribution
