@@ -44,7 +44,7 @@ pagetitle: "Research"
 
 3. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, Kai Yu, and Ling Xue (2023), “Strategizing Value-Added Services for Platform Firms,” revise and resubmit at ***Production and Operations Management***.
 
-4. Tong, Siliang\*, Shuang Zheng\*, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2024), “Choice Architecture for a Better On-Demand Economy: A Field Experiment on Rating Disclosure in Mobile Search” working paper.
+4. Tong, Siliang\*, Shuang Zheng\*, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2024), “Choice Architecture for a Better On-Demand Economy: A Field Experiment on Rating Disclosure in Mobile Search” working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4695864)
 
 5. Zheng, Shuang, John P. Lalor, Yixing Chen, and Xianneng Li (2024), “Mitigating the Matthew Effect in Recommender Systems: Descriptive Evidence, Methodology, and Application” working paper.
 
