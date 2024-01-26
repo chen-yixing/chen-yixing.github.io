@@ -46,7 +46,8 @@ pagetitle: "Research"
 
 4. Tong, Siliang\*, Shuang Zheng\*, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2024), “Choice Architecture for a Better On-Demand Economy: A Field Experiment on Rating Disclosure in Mobile Search” working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4695864)
 
-5. Zheng, Shuang, John P. Lalor, Yixing Chen, and Xianneng Li (2024), “Mitigating the Matthew Effect in Recommender Systems: Descriptive Evidence, Methodology, and Application” working paper.
+5. Zheng, Shuang, John P. Lalor, Yixing Chen, and Xianneng Li (2024), “Toward Responsible Recommender Systems Through
+Mitigating the System-Level Matthew Effect” working paper.
 
 6. Li, Wenchang, Yixing Chen, and John P. Lalor (2023), “Stars Are All You Need: A Distantly Supervised Pyramid Network for Document-Level End-to-End Sentiment Analysis,” working paper. [arXiv](https://arxiv.org/abs/2305.01710)
 
