@@ -40,7 +40,7 @@ pagetitle: "Research"
 
 &nbsp;
 
-2. Chen, Yixing\*, John P. Lalor\*, Wenchang Li, and Xin Luo (2023), "Advancing the Design of Online Review Systems in Education: A Field Experiment on Multidimensional Ratings," revise and resubmit at ***MIS Quarterly***. 
+2. Chen, Yixing, John P. Costello, John P. Lalor, Wenchang Li, and Xin Luo (2024), "Guiding Users to Complete Online Reviews Through the Positioning of Multidimensional Ratings," revise and resubmit at ***MIS Quarterly***. 
 
 3. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, Kai Yu, and Ling Xue (2023), “Strategizing Value-Added Services for Platform Firms,” revise and resubmit at ***Production and Operations Management***.
 
