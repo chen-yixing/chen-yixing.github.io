@@ -35,6 +35,7 @@ pagetitle: "Research"
 ### Working Papers
 
 1. Lei, Xiaoxia, Yixing Chen, and Ananya Sen (2023), “The Value of External Data for Digital Platforms: Evidence from a Field Experiment on Search Suggestions,” revise and resubmit at ***Management Science***. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452804)
+    - Coverage: [United Nations Commission on Science and Technology](https://unctad.org/system/files/information-document/CSTD2023-2024_Issues01_data_en.pdf)
     - Selected for presentation at the [NBER Workshop of Digital Economics](https://www.nber.org/conferences/economics-digitization-spring-2023) 
     - Selected for presentation at the [NBER Economics of Artificial Intelligence Conference](https://www.nber.org/conferences/economics-artificial-intelligence-conference-fall-2023)
 
@@ -42,7 +43,7 @@ pagetitle: "Research"
 
 2. Chen, Yixing, John P. Costello, John P. Lalor, Wenchang Li, and Xin Luo (2024), "Guiding Users to Complete Online Reviews Through the Positioning of Multidimensional Ratings," revise and resubmit at ***MIS Quarterly***. 
 
-3. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, Kai Yu, and Ling Xue (2023), “Strategizing Value-Added Services for Platform Firms,” revise and resubmit at ***Production and Operations Management***.
+3. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, Kai Yu, and Ling Xue (2024), “Strategizing Value-Added Services for Platform Firms,” revise and resubmit at ***Production and Operations Management***.
 
 4. Tong, Siliang\*, Shuang Zheng\*, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2024), “Choice Architecture for a Better On-Demand Economy: A Field Experiment on Rating Disclosure in Mobile Search” working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4695864)
 
