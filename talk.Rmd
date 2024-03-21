@@ -6,7 +6,7 @@ pagetitle: "Talks"
 
 ### Invited Presentations
 
-- Indiana university (Marketing Brown Bag Series), May 2024
+- Indiana University (Marketing Brown Bag Series), May 2024
 
 - Iowa State University Marketing PhD Seminar (Virtual), April 2024
 
@@ -20,7 +20,7 @@ pagetitle: "Talks"
 
 - University of Notre Dame (First Lecture Series), August 2022
 
-- Mays Business School, Texas A&M University (Marketing Strategy Doctoral Consortium), June 2022
+- Texas A&M University (Marketing Strategy Doctoral Consortium), June 2022
 
 - Wharton School, University of Pennsylvania (Responsible Research Summit), June 2022
 
@@ -28,7 +28,7 @@ pagetitle: "Talks"
 
 - Anderson School of Management, University of New Mexico, April 2022 
 
-- Mays Business School, Texas A&M University (PhD seminar), February 2022 
+- Texas A&M University Marketing PhD Seminar (Virtual), February 2022 
 
 - Renmin Business School, Renmin University of China, December 2021
 
