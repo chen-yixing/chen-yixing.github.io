@@ -5,7 +5,7 @@ pagetitle: "Research"
 <p>&nbsp;</p>
 
 ### Publications
-1. Chen, Yixing, Shrihari Sridhar, Kyuhong Han, Sonam Singh, Vikas Mittal, and Taehoon Im, “The Value of Safety Training for Business-to-Business Firms,” ***Journal of Marketing Research***, forthcoming. [Link](https://journals.sagepub.com/doi/10.1177/00222437231222857)
+1. Chen, Yixing, Shrihari Sridhar, Kyuhong Han, Sonam Singh, Vikas Mittal, and Taehoon Im, “The Value of Safety Training for Business-to-Business Firms,” ***Journal of Marketing Research***, forthcoming. [Link](https://journals.sagepub.com/doi/pdf/10.1177/00222437231222857)
 
 &nbsp;
 
@@ -45,10 +45,9 @@ pagetitle: "Research"
 
 3. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, Kai Yu, and Ling Xue (2024), “Strategizing Value-Added Services for Platform Firms,” revise and resubmit at ***Production and Operations Management***.
 
-4. Tong, Siliang\*, Shuang Zheng\*, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2024), “Choice Architecture for a Better On-Demand Economy: A Field Experiment on Rating Disclosure in Mobile Search” working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4695864)
+4. Tong, Siliang\*, Shuang Zheng\*, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2024), “Choice Architecture for a Better On-Demand Economy: A Field Experiment on Rating Disclosure in Mobile Search”, working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4695864)
 
-5. Zheng, Shuang, John P. Lalor, Yixing Chen, and Xianneng Li (2024), “Toward Responsible Recommender Systems Through
-Managing the System-Level Matthew Effect” working paper.
+5. Zheng, Shuang, John P. Lalor, Yixing Chen, and Xianneng Li (2024), “Toward Responsible Recommender Systems: A Unified Framework of Managing the System-Level Matthew Effect”, working paper.
 
 6. Chen, Yixing, Taehoon Im, Muzeeb Shaik, Narendra Bosukonda, Sonam Singh, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” resting paper. 
   
@@ -59,7 +58,7 @@ Managing the System-Level Matthew Effect” working paper.
 
 ### Other Publications
 
-1. Li, Wenchang, Yixing Chen, Shuang Zheng, Lei Wang, John P. Lalor (2024), “Stars Are All You Need: A Distantly Supervised Pyramid Network for Unified Sentiment Analysis,” ***Proceedings of the Ninth Workshop on Noisy and User-generated Text (W-NUT 2024)***. [Link](https://aclanthology.org/2024.wnut-1.10.pdf); [arXiv](https://arxiv.org/abs/2305.01710)
+1. Li, Wenchang, Yixing Chen, Shuang Zheng, Lei Wang, John P. Lalor (2024), “Stars Are All You Need: A Distantly Supervised Pyramid Network for Unified Sentiment Analysis,” ***Proceedings of the Ninth Workshop on Noisy and User-generated Text (W-NUT)***. [Link](https://aclanthology.org/2024.wnut-1.10.pdf); [arXiv](https://arxiv.org/abs/2305.01710)
 
 2. Singal, Amit G., Yixing Chen, Shrihari Sridhar, Vikas Mittal, Hannah Fullington, Muzeeb Shaik, Akbar K. Waljee and  Jasmin Tiro (2022), “Novel Application of Predictive Modeling: Identifying Patients for a Tailored Approach to Promoting HCC Surveillance in Patients with Cirrhosis,” ***Clinical Gastroenterology and Hepatology***, 20 (8), 1795–1802. 2022 Impact Factor: 12.6. [Link](https://www.sciencedirect.com/science/article/pii/S1542356521002172)
 
