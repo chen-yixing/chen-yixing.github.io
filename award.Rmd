@@ -5,6 +5,7 @@ pagetitle: "Honors & Awards"
 <p>&nbsp;</p>
 
 ### Honors & Awards
+-  2024  Prochaska Outstanding Teaching Award  
 -  2023  *Poets&Quants* Best 40-Under-40 MBA Professor Worldwide  
 -  2023  Distinguished Winner, AMA-EBSCO-RRBM Award for Responsible Research in Marketing
 -  2023  Fellow, 2023 ISMS Early-Career Scholars Camp
