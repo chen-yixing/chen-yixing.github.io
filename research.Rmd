@@ -41,9 +41,9 @@ pagetitle: "Research"
 
 &nbsp;
 
-2. Chen, Yixing, John P. Costello, John P. Lalor, Wenchang Li, and Xin Luo (2024), "Guiding Users to Complete Online Reviews Through the Positioning of Multidimensional Ratings," revise and resubmit at ***MIS Quarterly***. 
+2. Chen, Yixing, John P. Costello, John P. Lalor, Wenchang Li, and Xin Luo (2024), "Guiding Users to Complete Online Reviews Through the Positioning of Multidimensional Ratings," working paper. 
 
-3. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, Kai Yu, and Ling Xue (2024), “Strategizing Value-Added Services for Platform Firms,” revise and resubmit at ***Production and Operations Management***.
+3. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, Kai Yu, and Ling Xue (2024), “Strategizing Value-Added Services for Platform Firms,” working paper.
 
 4. Tong, Siliang\*, Shuang Zheng\*, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2024), “Choice Architecture for a Better On-Demand Economy: A Field Experiment on Rating Disclosure in Mobile Search”, working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4695864)
 
