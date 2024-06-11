@@ -34,7 +34,7 @@ pagetitle: "Research"
 
 ### Working Papers
 
-1. Lei, Xiaoxia, Yixing Chen, and Ananya Sen (2023), “The Value of External Data for Digital Platforms: Evidence from a Field Experiment on Search Suggestions,” revise and resubmit at ***Management Science***. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452804)
+1. Lei, Xiaoxia, Yixing Chen, and Ananya Sen (2024), “The Value of External Data for Digital Platforms: Evidence from a Field Experiment on Search Suggestions,” revise and resubmit at ***Management Science***. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452804)
     - Coverage: [United Nations Commission on Science and Technology](https://unctad.org/system/files/information-document/CSTD2023-2024_Issues01_data_en.pdf)
     - Selected for presentation at the [NBER Workshop of Digital Economics](https://www.nber.org/conferences/economics-digitization-spring-2023) 
     - Selected for presentation at the [NBER Economics of Artificial Intelligence Conference](https://www.nber.org/conferences/economics-artificial-intelligence-conference-fall-2023)
