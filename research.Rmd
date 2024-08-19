@@ -45,9 +45,9 @@ pagetitle: "Research"
 
 3. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, Kai Yu, and Ling Xue (2024), “Strategizing Value-Added Services for Platform Firms,” working paper.
 
-4. Tong, Siliang\*, Shuang Zheng\*, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2024), “Choice Architecture for a Better On-Demand Economy: A Field Experiment on Rating Disclosure in Mobile Search”, working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4695864)
+4. Zheng, Shuang, John P. Lalor, Yixing Chen, and Xianneng Li (2024), “Designing Fairness-aware Recommender Systems through Dynamic Graph Neural Networks”, working paper.
 
-5. Zheng, Shuang, John P. Lalor, Yixing Chen, and Xianneng Li (2024), “Toward Responsible Recommender Systems: A Unified Framework of Managing the System-Level Matthew Effect”, working paper.
+5. Tong, Siliang\*, Shuang Zheng\*, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2024), “Choice Architecture for a Better On-Demand Economy: A Field Experiment on Rating Disclosure in Mobile Search”, working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4695864)
 
 6. Chen, Yixing, Taehoon Im, Muzeeb Shaik, Narendra Bosukonda, Sonam Singh, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” resting paper. 
   
