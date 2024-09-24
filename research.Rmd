@@ -41,9 +41,9 @@ pagetitle: "Research"
 
 &nbsp;
 
-2. Chen, Yixing, John P. Costello, John P. Lalor, Wenchang Li, and Xin Luo (2024), "Guiding Users to Complete Online Reviews Through the Positioning of Multidimensional Ratings," working paper. 
+2. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, and Ling Xue (2024), “Strategizing Value-Added Services for Platform Firms,” working paper.
 
-3. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, Kai Yu, and Ling Xue (2024), “Strategizing Value-Added Services for Platform Firms,” working paper.
+3. Chen, Yixing, John P. Costello, John P. Lalor, Wenchang Li, and Xin Luo (2024), "Guiding Users to Complete Online Reviews Through the Positioning of Multidimensional Ratings," working paper. 
 
 4. Zheng, Shuang, John P. Lalor, Yixing Chen, and Xianneng Li (2024), “Designing Fairness-aware Recommender Systems through Dynamic Graph Neural Networks”, working paper.
 
