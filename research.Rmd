@@ -51,7 +51,10 @@ pagetitle: "Research"
 
 6. Li, Wenchang, John P. Lalor, Yixing Chen, and Vamsi K. Kanuri (2024), “From Stars to Insights: Exploration and Implementation of Unified Sentiment Analysis with Distant Supervision", working paper. [Link](http://arxiv.org/abs/2305.01710)
 
-7. Chen, Yixing, Taehoon Im, Muzeeb Shaik, Narendra Bosukonda, Sonam Singh, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” resting paper. 
+7. Tong, Siliang, Mingjie Ma, Yixing Chen, and Kim Huat Goh (2024), “The Public Health Impact of Private
+Gym Access,” working paper.
+
+8. Chen, Yixing, Taehoon Im, Muzeeb Shaik, Narendra Bosukonda, Sonam Singh, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” resting paper. 
   
 &nbsp;
 \*Equal Contribution
