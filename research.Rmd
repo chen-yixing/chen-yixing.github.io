@@ -52,7 +52,7 @@ Field Experiment in Search,” forthcoming in ***Management Science***. [SSRN](h
 
 4. Tong, Siliang\*, Shuang Zheng\*, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2024), “Choice Architecture for a Better On-Demand Economy: A Field Experiment on Rating Disclosure in Mobile Search”, working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4695864)
 
-5. Mingjie Ma, Tong, Siliang, Yixing Chen, and Kim Huat Goh (2025), “The Public Health Impact of the
+5. Ma, Mingjie, Siliang Tong, Yixing Chen, and Kim Huat Goh (2025), “The Public Health Impact of the
 Private Fitness Industry,” working paper.
 
 6. Li, Wenchang, John P. Lalor, Yixing Chen, and Vamsi K. Kanuri (2024), “From Stars to Insights: Exploration and Implementation of Unified Sentiment Analysis with Distant Supervision", working paper. [Link](http://arxiv.org/abs/2305.01710)
