@@ -14,19 +14,23 @@ Field Experiment in Search,” forthcoming in ***Management Science***. [SSRN](h
 
 &#32;
 
-
-2. Chen, Yixing, Shrihari Sridhar, Kyuhong Han, Sonam Singh, Vikas Mittal, and Taehoon Im (2024), “The Value of Safety Training for Business-to-Business Firms,” ***Journal of Marketing Research***, 61 (4), 742-759. [Link](https://journals.sagepub.com/doi/pdf/10.1177/00222437231222857); [Appendix](https://journals.sagepub.com/doi/full/10.1177/00222437231222857#supplementary-materials)
+2. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, and Ling Xue, “Strategizing Value-Added Services for Platform Firms,” forthcoming in ***Production and Operations Management***.
 
 &#32;
 
-3.  Chen, Yixing, Vikas Mittal, and Shrihari Sridhar (2021), “Investigating the Academic Performance and Disciplinary Consequences of School District Internet Access Spending,” ***Journal of Marketing Research***, 58 (1), 141-162. [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022243720964130); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022243720964130/suppl_file/Web_Appendix_FINAL_(Chen_Mittal_Sridhar).pdf)
+
+3. Chen, Yixing, Shrihari Sridhar, Kyuhong Han, Sonam Singh, Vikas Mittal, and Taehoon Im (2024), “The Value of Safety Training for Business-to-Business Firms,” ***Journal of Marketing Research***, 61 (4), 742-759. [Link](https://journals.sagepub.com/doi/pdf/10.1177/00222437231222857); [Appendix](https://journals.sagepub.com/doi/full/10.1177/00222437231222857#supplementary-materials)
+
+&#32;
+
+4.  Chen, Yixing, Vikas Mittal, and Shrihari Sridhar (2021), “Investigating the Academic Performance and Disciplinary Consequences of School District Internet Access Spending,” ***Journal of Marketing Research***, 58 (1), 141-162. [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022243720964130); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022243720964130/suppl_file/Web_Appendix_FINAL_(Chen_Mittal_Sridhar).pdf)
     - **Distinguished Winner, 2023 AMA-EBSCO-RRBM Award for Responsible Research in Marketing**
     - **Finalist, 2021 Paul E. Green Award (JMR Best Paper Award)** 
     - [Top 1%](https://sage.altmetric.com/details/94875362#score) of the Attention Scores of all research outputs tracked by Altmetric 
 
 &#32;
 
-4.  Chen, Yixing, Ju-Yeon Lee, Shrihari Sridhar, Vikas Mittal, Katharine McCallister, and Amit G. Singal (2020), “Improving Cancer Outreach Effectiveness through Targeting and Economic Assessments: Insights from a Randomized Field Experiment,” ***Journal of Marketing***, 84 (3), 1–27 (Lead Article). [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022242920913025); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022242920913025)
+5.  Chen, Yixing, Ju-Yeon Lee, Shrihari Sridhar, Vikas Mittal, Katharine McCallister, and Amit G. Singal (2020), “Improving Cancer Outreach Effectiveness through Targeting and Economic Assessments: Insights from a Randomized Field Experiment,” ***Journal of Marketing***, 84 (3), 1–27 (Lead Article). [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022242920913025); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022242920913025)
     - **Inaugural Winner, Financial Times Responsible Business Education Award on Academic Research** 
     - **Finalist, 2022 AMA-EBSCO-RRBM Award for Responsible Research in Marketing**
     - **Finalist, 2020 AMA/Marketing Science Institute/H. Paul Root Award (JM Best Paper Award)**
@@ -36,7 +40,7 @@ Field Experiment in Search,” forthcoming in ***Management Science***. [SSRN](h
 
 &#32;
     
-5.  Kanuri, Vamsi K., Yixing Chen, and Shrihari Sridhar (2018), “Scheduling Content on Social Media: Theory, Evidence, and Application,” ***Journal of Marketing***, 82 (6), 89–108. [Link](https://journals.sagepub.com/doi/10.1177/0022242918805411); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022242918805411) 
+6.  Kanuri, Vamsi K., Yixing Chen, and Shrihari Sridhar (2018), “Scheduling Content on Social Media: Theory, Evidence, and Application,” ***Journal of Marketing***, 82 (6), 89–108. [Link](https://journals.sagepub.com/doi/10.1177/0022242918805411); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022242918805411) 
     - **Finalist, 2018 AMA/Marketing Science Institute/H. Paul Root Award (JM Best Paper Award)**
     - Featured in ***Harvard Business Review*** (digital article), [“A Study Shows the Best Times of Day to Post to Social Media”](https://hbr.org/2018/09/a-study-shows-the-best-times-of-day-to-post-to-social-media)
                                   
@@ -44,20 +48,18 @@ Field Experiment in Search,” forthcoming in ***Management Science***. [SSRN](h
 
 ### Working Papers
 
-1. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, and Ling Xue (2024), “Strategizing Value-Added Services for Platform Firms,” conditionally accepted at ***Production and Operations Management***.
+1. Chen, Yixing, John P. Costello, John P. Lalor, and Xin Luo (2025), "Guiding Users to Complete Online Reviews Through the Positioning of Multidimensional Ratings," working paper. 
 
-2. Chen, Yixing, John P. Costello, John P. Lalor, and Xin Luo (2025), "Guiding Users to Complete Online Reviews Through the Positioning of Multidimensional Ratings," working paper. 
+2. Zheng, Shuang, John P. Lalor, and Yixing Chen (2025), “Designing Fairness-aware Recommender Systems through Dynamic Graph Neural Networks”, working paper.
 
-3. Zheng, Shuang, John P. Lalor, and Yixing Chen (2025), “Designing Fairness-aware Recommender Systems through Dynamic Graph Neural Networks”, working paper.
+3. Tong, Siliang\*, Shuang Zheng\*, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2024), “Choice Architecture for a Better On-Demand Economy: A Field Experiment on Rating Disclosure in Mobile Search”, working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4695864)
 
-4. Tong, Siliang\*, Shuang Zheng\*, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2024), “Choice Architecture for a Better On-Demand Economy: A Field Experiment on Rating Disclosure in Mobile Search”, working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4695864)
-
-5. Ma, Mingjie, Siliang Tong, Yixing Chen, and Kim Huat Goh (2025), “The Public Health Impact of the
+4. Ma, Mingjie, Siliang Tong, Yixing Chen, and Kim Huat Goh (2025), “The Public Health Impact of the
 Private Fitness Industry,” working paper.
 
-6. Li, Wenchang, John P. Lalor, Yixing Chen, and Vamsi K. Kanuri (2024), “From Stars to Insights: Exploration and Implementation of Unified Sentiment Analysis with Distant Supervision", working paper. [Link](http://arxiv.org/abs/2305.01710)
+5. Li, Wenchang, John P. Lalor, Yixing Chen, and Vamsi K. Kanuri (2024), “From Stars to Insights: Exploration and Implementation of Unified Sentiment Analysis with Distant Supervision", working paper. [Link](http://arxiv.org/abs/2305.01710)
 
-7. Chen, Yixing, Taehoon Im, Muzeeb Shaik, Narendra Bosukonda, Sonam Singh, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” resting paper. 
+6. Chen, Yixing, Taehoon Im, Muzeeb Shaik, Narendra Bosukonda, Sonam Singh, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” resting paper. 
   
 &nbsp;
 \*Equal Contribution
