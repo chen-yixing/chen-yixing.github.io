@@ -8,7 +8,7 @@ pagetitle: "Teaching"
 ### Mendoza College of Business, University of Notre Dame
 
 - Marketing Analytics (MBA)
-  - Spring 2021--present (average rating across 4 sections: 4.9/5)
+  - Spring 2021--present (average rating across 5 sections: 4.9/5)
   - Award: [*Poets&Quants* Best 40-Under-40 MBA Professors Worldwide](https://poetsandquants.com/2023/06/05/2023-best-40-under-40-mba-professors-yixing-chen-mendoza-college-of-business-university-of-notre-dame/)
 
 <p>&nbsp;</p>

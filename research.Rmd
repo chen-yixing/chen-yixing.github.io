@@ -45,6 +45,7 @@ Field Experiment in Search,” forthcoming in ***Management Science***. [SSRN](h
     - Featured in ***Harvard Business Review*** (digital article), [“A Study Shows the Best Times of Day to Post to Social Media”](https://hbr.org/2018/09/a-study-shows-the-best-times-of-day-to-post-to-social-media)
                                   
 &nbsp;
+\*Equal Contribution
 
 ### Working Papers
 
@@ -52,7 +53,7 @@ Field Experiment in Search,” forthcoming in ***Management Science***. [SSRN](h
 
 2. Zheng, Shuang, John P. Lalor, and Yixing Chen (2025), “Designing Fairness-aware Recommender Systems through Dynamic Graph Neural Networks”, working paper.
 
-3. Tong, Siliang\*, Shuang Zheng\*, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2024), “Choice Architecture for a Better On-Demand Economy: A Field Experiment on Rating Disclosure in Mobile Search”, working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4695864)
+3. Tong, Siliang, Shuang Zheng, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2024), “Choice Architecture for a Better On-Demand Economy: A Field Experiment on Rating Disclosure in Mobile Search”, working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4695864)
 
 4. Ma, Mingjie, Siliang Tong, Yixing Chen, and Kim Huat Goh (2025), “The Public Health Impact of the
 Private Fitness Industry,” working paper.
@@ -61,8 +62,7 @@ Private Fitness Industry,” working paper.
 
 6. Chen, Yixing, Taehoon Im, Muzeeb Shaik, Narendra Bosukonda, Sonam Singh, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” resting paper. 
   
-&nbsp;
-\*Equal Contribution
+
 
 &nbsp;
 
