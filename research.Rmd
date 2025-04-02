@@ -68,7 +68,7 @@ Field Experiment in Search,” forthcoming in ***Management Science***. [SSRN](h
 
 2. Zheng, Shuang, John P. Lalor, and Yixing Chen (2025), “Designing Fairness-aware Recommender Systems through Dynamic Graph Neural Networks”, working paper.
 
-3. Tong, Siliang, Shuang Zheng, Yixing Chen, Shrihari Sridhar, and Xianneng Li (2024), “Choice Architecture for a Better On-Demand Economy: A Field Experiment on Rating Disclosure in Mobile Search”, working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4695864)
+3. Tong, Siliang, Yixing Chen, Shuang Zheng, and Shrihari Sridhar (2025), “Rating at First Sight: How Early Rating Disclosure in Search Autocomplete Influences Mobile Purchases”, working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4695864)
 
 4. Ma, Mingjie, Siliang Tong, Yixing Chen, and Kim Huat Goh (2025), “The Public Health Impact of the
 Private Fitness Industry,” working paper.
