@@ -13,7 +13,7 @@ pagetitle: "Teaching"
 
 <p>&nbsp;</p>
 - Marketing Analytics (Undergraduate)
-  - Spring 2021--present (average rating across 8 sections: 4.88/5) 
+  - Spring 2021--present (average rating across 10 sections: 4.87/5) 
   - Award: Prochaska Outstanding Teaching Award
 <p>&nbsp;</p>
 
