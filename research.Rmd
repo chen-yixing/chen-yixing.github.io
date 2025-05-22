@@ -73,9 +73,12 @@ Field Experiment in Search,” forthcoming in ***Management Science***. [SSRN](h
 4. Ma, Mingjie, Siliang Tong, Yixing Chen, and Kim Huat Goh (2025), “The Public Health Impact of the
 Private Fitness Industry,” working paper.
 
-5. Li, Wenchang, John P. Lalor, Yixing Chen, and Vamsi K. Kanuri (2024), “From Stars to Insights: Exploration and Implementation of Unified Sentiment Analysis with Distant Supervision", working paper. [Link](http://arxiv.org/abs/2305.01710)
+5. Chen, Yi, Yixing Chen, Ziwei Cong, and Liwen Hou (2025), “Supplier Responses to Personalized
+Nudges on Business-to-Business Electronic Commerce Platforms,” working paper.
 
-6. Chen, Yixing, Taehoon Im, Muzeeb Shaik, Narendra Bosukonda, Sonam Singh, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” resting paper. 
+6. Li, Wenchang, John P. Lalor, Yixing Chen, and Vamsi K. Kanuri (2024), “From Stars to Insights: Exploration and Implementation of Unified Sentiment Analysis with Distant Supervision", working paper. [Link](http://arxiv.org/abs/2305.01710)
+
+7. Chen, Yixing, Taehoon Im, Muzeeb Shaik, Narendra Bosukonda, Sonam Singh, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” resting paper. 
   
 
 
