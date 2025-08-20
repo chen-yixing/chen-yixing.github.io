@@ -67,8 +67,7 @@ pagetitle: "Research"
 
 ### Working Papers
 
-1. Chen, Yixing, John P. Costello, John P. Lalor, and Xin Luo (2025), "Rate Before You Write: Mitigating Re-
-viewer Attrition with the Positioning of Multidimensional Attribute Ratings,," working paper. 
+1. Chen, Yixing, John P. Costello, John P. Lalor, and Xin Luo (2025), "Rate Before You Write: Mitigating Reviewer Attrition with the Positioning of Multidimensional Attribute Ratings," working paper. 
 
 2. Zheng, Shuang, John P. Lalor, and Yixing Chen (2025), “Diversifying Recommendations on Digital Platforms:
 A Dynamic Graph Neural Network Approach”, working paper.
