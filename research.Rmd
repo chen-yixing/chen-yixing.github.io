@@ -27,8 +27,7 @@ pagetitle: "Research"
 &#32;
 
 5. Singal, Amit G., Yixing Chen, Shrihari Sridhar, Vikas Mittal, Hannah Fullington, Muzeeb Shaik, Akbar K. Waljee and  Jasmin Tiro (2022), “Novel Application of Predictive Modeling: Identifying Patients for a Tailored Approach to Promoting HCC Surveillance in Patients with Cirrhosis,” ***Clinical Gastroenterology and Hepatology***, 20 (8), 1795–1802. [Link](https://www.sciencedirect.com/science/article/pii/S1542356521002172)
-
-    - 2023 Impact Factor: 11.6 (9/143 among Gastroenterology/Hepatology journals).  
+    - Impact Factor: 12  
 
 
 &#32;
@@ -72,7 +71,7 @@ pagetitle: "Research"
 2. Zheng, Shuang, John P. Lalor, and Yixing Chen (2025), “Diversifying Recommendations on Digital Platforms:
 A Dynamic Graph Neural Network Approach”, working paper.
 
-3. Tong, Siliang, Yixing Chen, Shuang Zheng, and Shrihari Sridhar (2025), “Rating at First Sight: How Early Rating Disclosure in Search Autocomplete Influences Mobile Purchases”, working paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4695864)
+3. Tong, Siliang, Yixing Chen, Shuang Zheng, and Shrihari Sridhar (2025), “Rating at First Sight: How Early Rating Disclosure in Search Autocomplete Influences Mobile Purchases”, working paper. 
 
 4. Ma, Mingjie, Siliang Tong, Yixing Chen, and Kim Huat Goh (2025), “Moving Upstream: The Public Health Impact of Expanding Access to Private Fitness,” working paper.
 
