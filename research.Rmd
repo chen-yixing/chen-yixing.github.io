@@ -6,10 +6,10 @@ pagetitle: "Research"
 
 ### Publications
 
-1. Lei, Xiaoxia, Yixing Chen, and Ananya Sen, “Trade-Offs in Leveraging External Data Capabilities: Evidencefrom a Field Experiment in an Online Search Market,” forthcoming in ***Management Science***. [Link](https://pubsonline.informs.org/doi/epdf/10.1287/mnsc.2023.01834)
+1. Lei, Xiaoxia, Yixing Chen, and Ananya Sen, “Trade-Offs in Leveraging External Data Capabilities: Evidence from a Field Experiment in an Online Search Market,” forthcoming in ***Management Science***. [Link](https://pubsonline.informs.org/doi/epdf/10.1287/mnsc.2023.01834)
     - Coverage: [United Nations Commission on Science and Technology](https://unctad.org/system/files/information-document/CSTD2023-2024_Issues01_data_en.pdf)
-    - Selected for presentation at the [NBER Workshop of Digital Economics](https://www.nber.org/conferences/economics-digitization-spring-2023) 
-    & [NBER Economics of Artificial Intelligence Conference](https://www.nber.org/conferences/economics-artificial-intelligence-conference-fall-2023)
+    - Selected for presentation at the [NBER Workshop of Digital Economics](https://www.nber.org/conferences/economics-digitization-spring-2023), 
+     [NBER Economics of Artificial Intelligence Conference](https://www.nber.org/conferences/economics-artificial-intelligence-conference-fall-2023),[The Economics of the Digital Markets Act (DMA) Workshop](https://www.tse-fr.eu/conferences/2025-economics-digital-markets-act-dma-workshop), and [DMA and Beyond Conference](https://kgi.georgetown.edu/events/dma-and-beyond-conference/) 
 
 &#32;
 
