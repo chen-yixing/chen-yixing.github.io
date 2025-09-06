@@ -58,7 +58,7 @@ pagetitle: "Research"
 
 &#32;
 
-10. Pickard, Matthew D., Catherine A. Roster, and Yixing Chen (2016), “Revealing Sensitive Information in Personal Interviews: Is Self-Disclosure Easier with Humans or Avatars and Under What Conditions,” ***Computers in Human Behavior***, 65, 23–30. [Link](https://www.researchgate.net/profile/Matthew-Pickard-2/publication/306421780_Revealing_sensitive_information_in_personal_interviews_Is_self-disclosure_easier_with_humans_or_avatars_and_under_what_conditions/links/5fa160eca6fdccfd7b97b0ae/Revealing-sensitive-information-in-personal-interviews-Is-self-disclosure-easier-with-humans-or-avatars-and-under-what-conditions.pdf)
+10. Pickard, Matthew D., Catherine A. Roster, and Yixing Chen (2016), “Revealing Sensitive Information in Personal Interviews: Is Self-Disclosure Easier with Humans or Avatars and Under What Conditions,” ***Computers in Human Behavior***, 65, 23–30. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0747563216305684)
                                   
 \*Equal Contribution
 
