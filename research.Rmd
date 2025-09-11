@@ -17,7 +17,7 @@ pagetitle: "Research"
 
 &#32;
 
-3. Li, Wenchang, John P. Lalor, Yixing Chen, and Vamsi K. Kanuri, “From Stars to Insights: Exploration and Implementation of Unified Sentiment Analysis with Distant Supervision", forthcoming in ***ACM Transactions on Management Information Systems***. [Link](https://doi.org/10.1145/3757747)
+3. Li, Wenchang, John P. Lalor, Yixing Chen, and Vamsi K. Kanuri (2025), “From Stars to Insights: Exploration and Implementation of Unified Sentiment Analysis with Distant Supervision", ***ACM Transactions on Management Information Systems***, 16 (3), 28:1-21. [Link](https://doi.org/10.1145/3757747)
 
 &#32;
 
