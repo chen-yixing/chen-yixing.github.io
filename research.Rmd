@@ -6,7 +6,7 @@ pagetitle: "Research"
 
 ### Publications
 
-1. Lei, Xiaoxia, Yixing Chen, and Ananya Sen, “Trade-Offs in Leveraging External Data Capabilities: Evidence from a Field Experiment in an Online Search Market,” forthcoming in ***Management Science***. [Link](https://pubsonline.informs.org/doi/epdf/10.1287/mnsc.2023.01834)
+1. Lei, Xiaoxia<sup>&dagger;</sup>, Yixing Chen, and Ananya Sen, “Trade-Offs in Leveraging External Data Capabilities: Evidence from a Field Experiment in an Online Search Market,” forthcoming in ***Management Science***. [Link](https://pubsonline.informs.org/doi/epdf/10.1287/mnsc.2023.01834)
     - Coverage: [United Nations Commission on Science and Technology](https://unctad.org/system/files/information-document/CSTD2023-2024_Issues01_data_en.pdf)
     - Selected for presentation at the [NBER Workshop of Digital Economics](https://www.nber.org/conferences/economics-digitization-spring-2023), 
      [NBER Economics of Artificial Intelligence Conference](https://www.nber.org/conferences/economics-artificial-intelligence-conference-fall-2023), [The Economics of the Digital Markets Act (DMA) Workshop](https://www.tse-fr.eu/conferences/2025-economics-digital-markets-act-dma-workshop), and [DMA and Beyond Conference](https://kgi.georgetown.edu/events/dma-and-beyond-conference/) 
@@ -17,16 +17,16 @@ pagetitle: "Research"
 
 &#32;
 
-3. Li, Wenchang, John P. Lalor, Yixing Chen, and Vamsi K. Kanuri (2025), “From Stars to Insights: Exploration and Implementation of Unified Sentiment Analysis with Distant Supervision", ***ACM Transactions on Management Information Systems***, 16 (3), 28:1-21. [Link](https://doi.org/10.1145/3757747)
+3. Li, Wenchang<sup>&dagger;</sup>, John P. Lalor, Yixing Chen, and Vamsi K. Kanuri (2025), “From Stars to Insights: Exploration and Implementation of Unified Sentiment Analysis with Distant Supervision", ***ACM Transactions on Management Information Systems***, 16 (3), 28:1-21. [Link](https://doi.org/10.1145/3757747)
 
 &#32;
 
 
-4. Chen, Yixing, Shrihari Sridhar, Kyuhong Han, Sonam Singh, Vikas Mittal, and Taehoon Im (2024), “The Value of Safety Training for Business-to-Business Firms,” ***Journal of Marketing Research***, 61 (4), 742-759. [Link](https://journals.sagepub.com/doi/pdf/10.1177/00222437231222857); [Appendix](https://journals.sagepub.com/doi/full/10.1177/00222437231222857#supplementary-materials)
+4. Chen, Yixing, Shrihari Sridhar, Kyuhong Han, Sonam Singh<sup>&dagger;</sup>, Vikas Mittal, and Taehoon Im<sup>&dagger;</sup> (2024), “The Value of Safety Training for Business-to-Business Firms,” ***Journal of Marketing Research***, 61 (4), 742-759. [Link](https://journals.sagepub.com/doi/pdf/10.1177/00222437231222857); [Appendix](https://journals.sagepub.com/doi/full/10.1177/00222437231222857#supplementary-materials)
 
 &#32;
 
-5. Singal, Amit G., Yixing Chen, Shrihari Sridhar, Vikas Mittal, Hannah Fullington, Muzeeb Shaik, Akbar K. Waljee and  Jasmin Tiro (2022), “Novel Application of Predictive Modeling: Identifying Patients for a Tailored Approach to Promoting HCC Surveillance in Patients with Cirrhosis,” ***Clinical Gastroenterology and Hepatology***, 20 (8), 1795–1802. [Link](https://www.sciencedirect.com/science/article/pii/S1542356521002172)
+5. Singal, Amit G., Yixing Chen, Shrihari Sridhar, Vikas Mittal, Hannah Fullington, Muzeeb Shaik<sup>&dagger;</sup>, Akbar K. Waljee and  Jasmin Tiro (2022), “Novel Application of Predictive Modeling: Identifying Patients for a Tailored Approach to Promoting HCC Surveillance in Patients with Cirrhosis,” ***Clinical Gastroenterology and Hepatology***, 20 (8), 1795–1802. [Link](https://www.sciencedirect.com/science/article/pii/S1542356521002172)
     - Impact Factor: 12  
 
 
@@ -60,26 +60,25 @@ pagetitle: "Research"
 
 10. Pickard, Matthew D., Catherine A. Roster, and Yixing Chen (2016), “Revealing Sensitive Information in Personal Interviews: Is Self-Disclosure Easier with Humans or Avatars and Under What Conditions,” ***Computers in Human Behavior***, 65, 23–30. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0747563216305684)
                                   
-\*Equal Contribution
-
 &nbsp;
 
 ### Working Papers
 
-1. Chen, Yixing, John P. Costello, John P. Lalor, and Xin Luo (2025), "Rate Before You Write: Mitigating Reviewer Attrition with the Positioning of Multidimensional Attribute Ratings," working paper. 
+1. Chen, Yixing, John P. Costello, John P. Lalor, and Xin Luo (2025), "Rate Before You Write: How the
+Presence and Positioning of Multidimensional Attribute Ratings Influence Attrition in Online Reviews," working paper. 
 
-2. Zheng, Shuang, John P. Lalor, and Yixing Chen (2025), “Diversifying Recommendations on Digital Platforms:
+2. Zheng, Shuang<sup>&dagger;</sup>, John P. Lalor, and Yixing Chen (2025), “Diversifying Recommendations on Digital Platforms:
 A Dynamic Graph Neural Network Approach”, working paper.
 
-3. Tong, Siliang, Yixing Chen, Shuang Zheng, and Shrihari Sridhar (2025), “Rating at First Sight: How Early Rating Disclosure in Search Autocomplete Influences Mobile Purchases”, working paper. 
+3. Tong, Siliang, Yixing Chen, Shuang Zheng<sup>&dagger;</sup>, and Shrihari Sridhar (2025), “Rating at First Sight: How Early Rating Disclosure in Search Autocomplete Influences Mobile Purchases”, working paper. 
 
 4. Ma, Mingjie, Siliang Tong, Yixing Chen, and Kim Huat Goh (2025), “Moving Upstream: The Public Health Impact of Expanding Access to Private Fitness,” working paper.
 
-5. Chen, Yi, Yixing Chen, Ziwei Cong, and Liwen Hou (2025), “Supplier Responses to Personalized
-Nudges on Business-to-Business Electronic Commerce Platforms,” working paper.
+5. Chen, Yi<sup>&dagger;</sup>, Yixing Chen, Ziwei Cong, and Liwen Hou (2025), “Supplier Responses to Platform Recommendations: Evidence from a Business-to-Business Electronic Commerce Platform,” working paper.
 
-6. Chen, Yixing, Taehoon Im, Muzeeb Shaik, Narendra Bosukonda, Sonam Singh, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” resting paper. 
+6. Chen, Yixing, Taehoon Im<sup>&dagger;</sup>, Muzeeb Shaik<sup>&dagger;</sup>, Narendra Bosukonda<sup>&dagger;</sup>, Sonam Singh<sup>&dagger;</sup>, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” resting paper. 
   
+\*Equal Contribution; <sup>&dagger;</sup> denotes student co-authors at the start of the project
 
 
 &nbsp;
