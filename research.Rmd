@@ -13,7 +13,11 @@ pagetitle: "Research"
 
 &#32;
 
-2. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, and Ling Xue (2025), “Strategizing Value-Added Services for Platform Firms,” ***Production and Operations Management***, 34 (10), 3289-3308.  [Link](https://journals.sagepub.com/doi/10.1177/10591478251332713)
+2. Ma, Mingjie\*, Siliang Tong\*, Yixing Chen\*, and Kim Huat Goh, “The Public Health Impact of Private Fitness Expansion,” forthcoming in ***PNAS Nexus***.
+
+&#32;
+
+3. Hou, Liwen\*, Xinxue Qu\*, Yixing Chen, and Ling Xue (2025), “Strategizing Value-Added Services for Platform Firms,” ***Production and Operations Management***, 34 (10), 3289-3308.  [Link](https://journals.sagepub.com/doi/10.1177/10591478251332713)
 
 &#32;
 
@@ -72,11 +76,9 @@ A Dynamic Graph Neural Network Approach”, working paper.
 
 3. Tong, Siliang, Yixing Chen, Shuang Zheng<sup>&dagger;</sup>, and Shrihari Sridhar (2025), “Rating at First Sight: How Early Rating Disclosure in Search Autocomplete Influences Mobile Purchases”, working paper. 
 
-4. Ma, Mingjie, Siliang Tong, Yixing Chen, and Kim Huat Goh (2025), “Moving Upstream: The Public Health Impact of Expanding Access to Private Fitness,” working paper.
+4. Chen, Yi<sup>&dagger;</sup>, Yixing Chen, Ziwei Cong, and Liwen Hou (2025), “Supplier Responses to Platform Recommendations: Evidence from a Business-to-Business Electronic Commerce Platform,” working paper.
 
-5. Chen, Yi<sup>&dagger;</sup>, Yixing Chen, Ziwei Cong, and Liwen Hou (2025), “Supplier Responses to Platform Recommendations: Evidence from a Business-to-Business Electronic Commerce Platform,” working paper.
-
-6. Chen, Yixing, Taehoon Im<sup>&dagger;</sup>, Muzeeb Shaik<sup>&dagger;</sup>, Narendra Bosukonda<sup>&dagger;</sup>, Sonam Singh<sup>&dagger;</sup>, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” resting paper. 
+5. Chen, Yixing, Taehoon Im<sup>&dagger;</sup>, Muzeeb Shaik<sup>&dagger;</sup>, Narendra Bosukonda<sup>&dagger;</sup>, Sonam Singh<sup>&dagger;</sup>, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” resting paper. 
   
 \*Equal Contribution; <sup>&dagger;</sup> denotes student co-authors at the start of the project
 
