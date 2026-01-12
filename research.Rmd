@@ -21,33 +21,33 @@ pagetitle: "Research"
 
 &#32;
 
-3. Li, Wenchang<sup>&dagger;</sup>, John P. Lalor, Yixing Chen, and Vamsi K. Kanuri (2025), “From Stars to Insights: Exploration and Implementation of Unified Sentiment Analysis with Distant Supervision", ***ACM Transactions on Management Information Systems***, 16 (3), 28:1-21. [Link](https://doi.org/10.1145/3757747)
+4. Li, Wenchang<sup>&dagger;</sup>, John P. Lalor, Yixing Chen, and Vamsi K. Kanuri (2025), “From Stars to Insights: Exploration and Implementation of Unified Sentiment Analysis with Distant Supervision", ***ACM Transactions on Management Information Systems***, 16 (3), 28:1-21. [Link](https://doi.org/10.1145/3757747)
 
 &#32;
 
 
-4. Chen, Yixing, Shrihari Sridhar, Kyuhong Han, Sonam Singh<sup>&dagger;</sup>, Vikas Mittal, and Taehoon Im<sup>&dagger;</sup> (2024), “The Value of Safety Training for Business-to-Business Firms,” ***Journal of Marketing Research***, 61 (4), 742-759. [Link](https://journals.sagepub.com/doi/pdf/10.1177/00222437231222857); [Appendix](https://journals.sagepub.com/doi/full/10.1177/00222437231222857#supplementary-materials)
+5. Chen, Yixing, Shrihari Sridhar, Kyuhong Han, Sonam Singh<sup>&dagger;</sup>, Vikas Mittal, and Taehoon Im<sup>&dagger;</sup> (2024), “The Value of Safety Training for Business-to-Business Firms,” ***Journal of Marketing Research***, 61 (4), 742-759. [Link](https://journals.sagepub.com/doi/pdf/10.1177/00222437231222857); [Appendix](https://journals.sagepub.com/doi/full/10.1177/00222437231222857#supplementary-materials)
 
 &#32;
 
-5. Singal, Amit G., Yixing Chen, Shrihari Sridhar, Vikas Mittal, Hannah Fullington, Muzeeb Shaik<sup>&dagger;</sup>, Akbar K. Waljee and  Jasmin Tiro (2022), “Novel Application of Predictive Modeling: Identifying Patients for a Tailored Approach to Promoting HCC Surveillance in Patients with Cirrhosis,” ***Clinical Gastroenterology and Hepatology***, 20 (8), 1795–1802. [Link](https://www.sciencedirect.com/science/article/pii/S1542356521002172)
+6. Singal, Amit G., Yixing Chen, Shrihari Sridhar, Vikas Mittal, Hannah Fullington, Muzeeb Shaik<sup>&dagger;</sup>, Akbar K. Waljee and  Jasmin Tiro (2022), “Novel Application of Predictive Modeling: Identifying Patients for a Tailored Approach to Promoting HCC Surveillance in Patients with Cirrhosis,” ***Clinical Gastroenterology and Hepatology***, 20 (8), 1795–1802. [Link](https://www.sciencedirect.com/science/article/pii/S1542356521002172)
     - Impact Factor: 12  
 
 
 &#32;
 
-6.  Chen, Yixing, Vikas Mittal, and Shrihari Sridhar (2021), “Investigating the Academic Performance and Disciplinary Consequences of School District Internet Access Spending,” ***Journal of Marketing Research***, 58 (1), 141-162. [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022243720964130); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022243720964130/suppl_file/Web_Appendix_FINAL_(Chen_Mittal_Sridhar).pdf)
+7.  Chen, Yixing, Vikas Mittal, and Shrihari Sridhar (2021), “Investigating the Academic Performance and Disciplinary Consequences of School District Internet Access Spending,” ***Journal of Marketing Research***, 58 (1), 141-162. [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022243720964130); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022243720964130/suppl_file/Web_Appendix_FINAL_(Chen_Mittal_Sridhar).pdf)
     - **Distinguished Winner, 2023 AMA-EBSCO-RRBM Award for Responsible Research in Marketing**
     - **Finalist, 2021 Paul E. Green/Vithala R. Rao Award (JMR Best Paper Award)** 
     - [Top 1%](https://sage.altmetric.com/details/94875362#score) of the Attention Scores of all research outputs tracked by Altmetric 
 
 &#32;
 
-7. Chen, Yixing, Shrihari Sridhar, and Vikas Mittal (2021), “Treatment Effect Heterogeneity in Randomized Field Experiments: A Methodological Comparison and Public Policy Implications,” ***Journal of Public Policy & Marketing***, 40 (4), 457–62 (Invited Article). [Link](https://doi.org/10.1177%2F07439156211032751) 
+8. Chen, Yixing, Shrihari Sridhar, and Vikas Mittal (2021), “Treatment Effect Heterogeneity in Randomized Field Experiments: A Methodological Comparison and Public Policy Implications,” ***Journal of Public Policy & Marketing***, 40 (4), 457–62 (Invited Article). [Link](https://doi.org/10.1177%2F07439156211032751) 
 
 &#32;
 
-8.  Chen, Yixing, Ju-Yeon Lee, Shrihari Sridhar, Vikas Mittal, Katharine McCallister, and Amit G. Singal (2020), “Improving Cancer Outreach Effectiveness through Targeting and Economic Assessments: Insights from a Randomized Field Experiment,” ***Journal of Marketing***, 84 (3), 1–27 (Lead Article). [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022242920913025); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022242920913025)
+9.  Chen, Yixing, Ju-Yeon Lee, Shrihari Sridhar, Vikas Mittal, Katharine McCallister, and Amit G. Singal (2020), “Improving Cancer Outreach Effectiveness through Targeting and Economic Assessments: Insights from a Randomized Field Experiment,” ***Journal of Marketing***, 84 (3), 1–27 (Lead Article). [Link](https://journals.sagepub.com/doi/pdf/10.1177/0022242920913025); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022242920913025)
     - **Inaugural Winner, Financial Times Responsible Business Education Award on Academic Research** 
     - **Finalist, 2022 AMA-EBSCO-RRBM Award for Responsible Research in Marketing**
     - **Finalist, 2020 AMA/Marketing Science Institute/H. Paul Root Award (JM Best Paper Award)**
@@ -57,12 +57,12 @@ pagetitle: "Research"
 
 &#32;
     
-9.  Kanuri, Vamsi K., Yixing Chen, and Shrihari Sridhar (2018), “Scheduling Content on Social Media: Theory, Evidence, and Application,” ***Journal of Marketing***, 82 (6), 89–108. [Link](https://journals.sagepub.com/doi/10.1177/0022242918805411); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022242918805411) 
+10.  Kanuri, Vamsi K., Yixing Chen, and Shrihari Sridhar (2018), “Scheduling Content on Social Media: Theory, Evidence, and Application,” ***Journal of Marketing***, 82 (6), 89–108. [Link](https://journals.sagepub.com/doi/10.1177/0022242918805411); [Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022242918805411) 
     - **Finalist, 2018 AMA/Marketing Science Institute/H. Paul Root Award (JM Best Paper Award)**
 
 &#32;
 
-10. Pickard, Matthew D., Catherine A. Roster, and Yixing Chen (2016), “Revealing Sensitive Information in Personal Interviews: Is Self-Disclosure Easier with Humans or Avatars and Under What Conditions,” ***Computers in Human Behavior***, 65, 23–30. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0747563216305684)
+11. Pickard, Matthew D., Catherine A. Roster, and Yixing Chen (2016), “Revealing Sensitive Information in Personal Interviews: Is Self-Disclosure Easier with Humans or Avatars and Under What Conditions,” ***Computers in Human Behavior***, 65, 23–30. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0747563216305684)
                                   
 &nbsp;
 
