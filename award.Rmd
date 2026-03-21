@@ -5,6 +5,8 @@ pagetitle: "Honors & Awards"
 <p>&nbsp;</p>
 
 ### Honors & Awards
+-  2026  MSI Young Scholar
+-  2026  Junior Faculty Fellow, AMA Marketing Strategy Consortium
 -  2025  James Dincolo Outstanding Research Award
 -  2024  Prochaska Outstanding Teaching Award  
 -  2023  *Poets&Quants* Best 40-Under-40 MBA Professor Worldwide  
@@ -15,7 +17,7 @@ pagetitle: "Honors & Awards"
 -  2022	 Finalist, Paul E. Green/Vithala R. Rao Best Paper Award
 -  2022	 University of New Mexico Inspirational Young Alumnus Award 
 -  2022	 Finalist, AMA-EBSCO-RRBM Award for Responsible Research in Marketing
--  2022	 Faculty Mentor, Marketing Strategy Doctoral Consortium, Texas A&M University
+-  2022	 Faculty Mentor, AMA Marketing Strategy Consortium, Texas A&M University
 -  2021	 Grow the Good in Business Faculty Research Award, Mendoza College of Business
 -  2021	 Finalist, AMA/Marketing Science Institute/H. Paul Root Best Paper Award 
 
@@ -30,9 +32,7 @@ pagetitle: "Honors & Awards"
 -  2015–2020	 PhD Enhancement Fellowship, Texas A&M University
 -  2015–2020	 Department of Marketing Fellowship, Texas A&M University
 -  2014,2015	 Albert & Mary Jane Black Endowed Fellowship, UNM Anderson Foundation
--  2013	 International Amigo Scholarship, University of New Mexico                                               
--  2011  Guanghua Best All-Round Student Award, Southwestern University of Finance and Economics                     
--  2010,2011	 Academic Excellence Scholarship, Southwestern University of Finance and Economics
+-  2013	 International Amigo Scholarship, University of New Mexico                                              
 
 
 

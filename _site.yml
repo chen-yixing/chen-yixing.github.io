@@ -9,10 +9,7 @@ navbar:
       href: teaching.html
     - text: "Honors & Awards"
       href: award.html
-    - text: "Talks"
-      href: talk.html
-      
-    
+
   right:
     - icon: fa-envelope fa-lg
       href: "mailto:ychen43@nd.edu"
