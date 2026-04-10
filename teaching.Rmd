@@ -5,15 +5,18 @@ pagetitle: "Teaching"
 
 <p>&nbsp;</p>
 
-### Mendoza College of Business, University of Notre Dame
-
-- Marketing Analytics (MBA, MSBA)
-  - Spring 2021--present (average rating across 5 sections: 4.9/5)
-  - 🏆 [*Poets & Quants* Best 40-Under-40 MBA Professors Worldwide](https://poetsandquants.com/2023/06/05/2023-best-40-under-40-mba-professors-yixing-chen-mendoza-college-of-business-university-of-notre-dame/)
+### Lee Kong Chian School of Business, Singapore Management University
+- Marketing Management (Master of Science in Management)
+  - Spring 2027 (scheduled)
 
 <p>&nbsp;</p>
-- Marketing Analytics (Undergraduate)
-  - Spring 2021--present (average rating across 10 sections: 4.87/5) 
+
+
+### Mendoza College of Business, University of Notre Dame
+
+- Marketing Analytics (BBA, MBA, MSBA)
+  - Spring 2021--present (average rating across 16 sections: 4.87/5)
+  - 🏆 [*Poets & Quants* Best 40-Under-40 MBA Professors Worldwide](https://poetsandquants.com/2023/06/05/2023-best-40-under-40-mba-professors-yixing-chen-mendoza-college-of-business-university-of-notre-dame/)
   - 🏆 Prochaska Outstanding Teaching Award
 <p>&nbsp;</p>
 
