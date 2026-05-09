@@ -77,9 +77,12 @@ A Dynamic Graph Neural Network Approach”, working paper.
 
 3. Tong, Siliang, Yixing Chen, Shuang Zheng<sup>&dagger;</sup>, and Shrihari Sridhar (2025), “Rating at First Sight: How Early Rating Disclosure in Search Autocomplete Influences Mobile Purchases”, working paper. 
 
-4. Chen, Yi<sup>&dagger;</sup>, Yixing Chen, Ziwei Cong, and Liwen Hou (2025), “Supplier Responses to Platform Recommendations: Evidence from a Business-to-Business Electronic Commerce Platform,” working paper.
+4. Chen, Yi<sup>&dagger;</sup>, Ziwei Cong, Yixing Chen, and Liwen Hou (2026), “Supplier Responses to Platform Recommendations in Business-to-Business Electronic Commerce,” working paper.
 
-5. Chen, Yixing, Taehoon Im<sup>&dagger;</sup>, Muzeeb Shaik<sup>&dagger;</sup>, Narendra Bosukonda<sup>&dagger;</sup>, Sonam Singh<sup>&dagger;</sup>, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” resting paper. 
+5. Li, Wenchang<sup>&dagger;</sup>, Siliang Tong, Yixing Chen, and Qing Ye (2026), “A Large-Scale Field Experiment Shows
+Limited Impact of Digital Patient Navigation on Outpatient Visits,” working paper.
+
+6. Chen, Yixing, Taehoon Im<sup>&dagger;</sup>, Muzeeb Shaik<sup>&dagger;</sup>, Narendra Bosukonda<sup>&dagger;</sup>, Sonam Singh<sup>&dagger;</sup>, Markus Blut, Vikas Mittal, Shrihari Sridhar, and Amit G. Singal (2021), “The Association of Patient Satisfaction and Quality of Care: Theory, Evidence, and Application,” resting paper. 
   
 \*Equal Contribution; <sup>&dagger;</sup> denotes student co-authors at the start of the project
 
