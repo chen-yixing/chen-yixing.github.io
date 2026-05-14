@@ -77,7 +77,7 @@ A Dynamic Graph Neural Network Approach”, working paper.
 
 3. Tong, Siliang, Yixing Chen, Shuang Zheng<sup>&dagger;</sup>, and Shrihari Sridhar (2025), “Rating at First Sight: How Early Rating Disclosure in Search Autocomplete Influences Mobile Purchases”, working paper. 
 
-4. Chen, Yi<sup>&dagger;</sup>, Ziwei Cong, Yixing Chen, and Liwen Hou (2026), “Supplier Responses to Platform Recommendations in Business-to-Business Electronic Commerce,” working paper.
+4. Chen, Yi<sup>&dagger;</sup>, Ziwei Cong, Yixing Chen, and Liwen Hou (2026), “Supplier Responses to Platform Recommendations in Business-to-Business Electronic Commerce,” working paper. [Link](https://ssrn.com/abstract=6762138)
 
 5. Li, Wenchang<sup>&dagger;</sup>, Siliang Tong, Yixing Chen, and Qing Ye (2026), “A Large-Scale Field Experiment Shows
 Limited Impact of Digital Patient Navigation on Outpatient Visits,” working paper.
